@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="7">
+<obj class_id="0" tracking_level="0" version="1">
+	<app_name>golfCal</app_name>
+	<app_idx>13</app_idx>
+	<max_folder>100</max_folder>
+	<stop_cam_drop_flag>1</stop_cam_drop_flag>
+	<save_complete_false_triggers_flag>0</save_complete_false_triggers_flag>
+	<save_all_triggers_in_temp_flag>0</save_all_triggers_in_temp_flag>
+	<auto_save_shot_flag>0</auto_save_shot_flag>
+	<cal_enable_flag>1</cal_enable_flag>
+	<comm_mode>0</comm_mode>
+	<debug_enable_flag>1</debug_enable_flag>
+	<debug_level>3</debug_level>
+	<print_enable_flag>1</print_enable_flag>
+	<print_level>1</print_level>
+	<max_physical_cams>2</max_physical_cams>
+	<setup_complete_flag>1</setup_complete_flag>
+	<setup_cal_complete_flag>1</setup_cal_complete_flag>
+	<cal_cam_complete_flag>
+		<count>8</count>
+		<item>1</item>
+		<item>1</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+	</cal_cam_complete_flag>
+	<setup_camgain_complete_flag>1</setup_camgain_complete_flag>
+	<camgain_cam_complete_flag>
+		<count>8</count>
+		<item>1</item>
+		<item>1</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+	</camgain_cam_complete_flag>
+	<max_cal_err>3</max_cal_err>
+	<max_cal_warn>2</max_cal_warn>
+	<max_label_pixel_err>28</max_label_pixel_err>
+	<max_label_edge_err>20</max_label_edge_err>
+	<num_fix_rows>9</num_fix_rows>
+	<num_fix_cols>9</num_fix_cols>
+	<fix_row_dist>10.16</fix_row_dist>
+	<fix_row_offset>0</fix_row_offset>
+	<fix_col_dist>10.16</fix_col_dist>
+	<fix_col_offset>-40.640000000000001</fix_col_offset>
+	<fix_col0_adjust>-0.3175</fix_col0_adjust>
+	<SpareDblOne>0</SpareDblOne>
+	<SpareDblTwo>0</SpareDblTwo>
+	<SpareIntOne>0</SpareIntOne>
+	<SpareIntTwo>0</SpareIntTwo>
+	<SpareStringOne>spare1</SpareStringOne>
+	<SpareStringTwo>2</SpareStringTwo>
+	<SpareBoolOne>0</SpareBoolOne>
+	<SpareBoolTwo>0</SpareBoolTwo>
+</obj>
+</boost_serialization>
+

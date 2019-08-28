@@ -1,0 +1,1 @@
+style	type	camera	label	index	x	y	z	p_wt	sx	sy	sz	s_wt	nx	ny	nz	n_wt	rad	r_wt

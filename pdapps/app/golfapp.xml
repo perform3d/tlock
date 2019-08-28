@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="3">
+<obj class_id="0" tracking_level="0" version="2">
+	<app_name>3Trak_Studio</app_name>
+	<app_idx>13</app_idx>
+	<max_physical_cams>2</max_physical_cams>
+	<num_hit_locations>4</num_hit_locations>
+	<m_improc_version>3</m_improc_version>
+	<m_cam_version>3</m_cam_version>
+	<m_traj_version>2</m_traj_version>
+	<m_spin_version>1</m_spin_version>
+	<m_ball_version>4</m_ball_version>
+	<m_club_version>2</m_club_version>
+	<m_diag_level>1</m_diag_level>
+	<m_default_hit_location>0</m_default_hit_location>
+	<max_folder>1000</max_folder>
+	<stop_cam_drop_flag>1</stop_cam_drop_flag>
+	<save_complete_false_triggers_flag>1</save_complete_false_triggers_flag>
+	<save_all_triggers_in_temp_flag>0</save_all_triggers_in_temp_flag>
+	<auto_save_shot_flag>1</auto_save_shot_flag>
+	<cal_enable_flag>0</cal_enable_flag>
+	<comm_mode>0</comm_mode>
+	<debug_enable_flag>1</debug_enable_flag>
+	<debug_level>1</debug_level>
+	<print_enable_flag>1</print_enable_flag>
+	<print_level>1</print_level>
+	<SpareDblOne>50</SpareDblOne>
+	<SpareDblTwo>0</SpareDblTwo>
+	<SpareIntOne>12</SpareIntOne>
+	<SpareIntTwo>0</SpareIntTwo>
+	<SpareStringOne>spare1</SpareStringOne>
+	<SpareStringTwo>spare2</SpareStringTwo>
+	<SpareBoolOne>0</SpareBoolOne>
+	<SpareBoolTwo>1</SpareBoolTwo>
+</obj>

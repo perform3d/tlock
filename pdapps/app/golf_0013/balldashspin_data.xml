@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="3">
+<obj class_id="0" tracking_level="1" version="0" object_id="_0">
+	<ConnDist>1.3799999999999999</ConnDist>
+	<ConnThinDist>0.10000000000000001</ConnThinDist>
+	<ConnDistMin>1.3200000000000001</ConnDistMin>
+	<ConnRadTol>0.015625</ConnRadTol>
+	<ConnTotalPtsMin>10</ConnTotalPtsMin>
+	<ConnGlobPtsMin>5</ConnGlobPtsMin>
+	<ConnBinmalPoint>64</ConnBinmalPoint>
+	<ConnThinPixDo>0</ConnThinPixDo>
+	<BallPixRadiusMin>10</BallPixRadiusMin>
+	<BallPixRadiusMax>200</BallPixRadiusMax>
+	<BallRadiusTolerance>0.10000000000000001</BallRadiusTolerance>
+	<BallPntsMin>15</BallPntsMin>
+	<LablErrMax>1</LablErrMax>
+	<OffsPtsMin>28</OffsPtsMin>
+	<OffsConfMax>700</OffsConfMax>
+	<ObsrAlgOpt>1</ObsrAlgOpt>
+	<TrajNominal>
+		<count>4</count>
+		<item>1</item>
+		<item>0</item>
+		<item>0</item>
+		<item>1</item>
+	</TrajNominal>
+	<SpinAlgSel>1</SpinAlgSel>
+	<SpinErrMax>0.5</SpinErrMax>
+	<SpinBack>
+		<count>4</count>
+		<item>0</item>
+		<item>1</item>
+		<item>0</item>
+		<item>0</item>
+	</SpinBack>
+	<SpareDblOne>0</SpareDblOne>
+	<SpareDblTwo>1</SpareDblTwo>
+	<SpareIntOne>2</SpareIntOne>
+	<SpareIntTwo>3</SpareIntTwo>
+</obj>

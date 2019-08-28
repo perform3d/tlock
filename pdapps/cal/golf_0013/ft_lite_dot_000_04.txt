@@ -1,0 +1,2 @@
+style type cam label index    x      y     p_wt	sx	sy	s_wt	rad	r_wt area ecc
+0  1 2 30 78   591.00984  220.72540    0.00000    39.73229   35.37864    0.14230    18.86453    0.00000  1118.00000    0.51271

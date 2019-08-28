@@ -1,0 +1,1537 @@
+golfCam::saveDiag:
+FLASH ELOG BUFFER
+
+m_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 17 trig_idx 7 in_que_idx 10
+GOOD pd_que_read: Not Valid Ball im in_idx 10 idx 17, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 18 trig_idx 7 in_que_idx 11
+GOOD pd_que_read: Not Valid Ball im in_idx 11 idx 18, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 19 trig_idx 7 in_que_idx 12
+GOOD pd_que_read: Not Valid Ball im in_idx 12 idx 19, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 20 trig_idx 7 in_que_idx 13
+GOOD pd_que_read: Not Valid Ball im in_idx 13 idx 20, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 21 trig_idx 7 in_que_idx 14
+GOOD pd_que_read: Not Valid Ball im in_idx 14 idx 21, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 22 trig_idx 7 in_que_idx 15
+GOOD pd_que_read: Not Valid Ball im in_idx 15 idx 22, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 23 trig_idx 7 in_que_idx 16
+GOOD pd_que_read: Not Valid Ball im in_idx 16 idx 23, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 24 trig_idx 7 in_que_idx 17
+GOOD pd_que_read: Not Valid Ball im in_idx 17 idx 24, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 25 trig_idx 7 in_que_idx 18
+GOOD pd_que_read: Not Valid Ball im in_idx 18 idx 25, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 26 trig_idx 7 in_que_idx 19
+GOOD pd_que_read: Not Valid Ball im in_idx 19 idx 26, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 27 trig_idx 7 in_que_idx 20
+GOOD pd_que_read: Not Valid Ball im in_idx 20 idx 27, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 28 trig_idx 7 in_que_idx 21
+GOOD pd_que_read: Not Valid Ball im in_idx 21 idx 28, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 29 trig_idx 7 in_que_idx 22
+ERR  pd_que_read: Not Valid Ball im in_idx 22 idx 29, num_ball_ims 22 tail_flag 1 ball_tail_flg 3
+PD START CMD 2 
+REQ APP WAKEUP <11600661>, set fp_request_start_app_idx 2
+IDLE GOT new app request, set event DONE ppi 11600662
+>>>LEAVE IDLE, BOTH DONE ppi 11600666
+PD_START APP <2>; sec<0> fr cnt<11600666>
+APP INITED...
+app_start: APP FRAME IDX 11600666
+FTEE: BONT tee rel deltas<57, 59>
+GTRK : tick<11600887> val_idx<23> val_tick
+FTEE: BONT tee rel deltas<57, 58>
+11604469 Self 11604468 ht  44 comm send cc  0 recv ff  0  time 151465.515023647 107 431
+         Peer 11604468 ht  44 comm send cc  0 recv ff  0  time 151465.515023477  96 
+          1st line wait  -170 ns off  -170 ns delta 1571701
+
+CLBT 11605252 FAIL: st(3) rv(0) m(3)
+WARNING: FAIL ppi 11605290, EVENT COUNT <37> EXCEEDED <36>!!!
+CLBT 11605290 FAIL: st(8) rv(0) m(8)
+GTRK : tick<11605326> val_idx<14> val_tick
+CLBT: 11605964 past tee pos err  x_tee_dist 65
+WARNING LATE START ppi 11605964 time 368
+11605965 Self 11605964 ht  44 comm send 58  0 recv ff  0  time 151467.864111242 132 506
+         Peer 11605964 ht  44 comm send cc  0 recv ff  0  time 151467.864112341 106 
+          1st line wait  1099 ns off  1099 ns delta 1571701
+
+GTRK : tick<11605965> val_idx<13> val_tick
+>>>LEAVE DONE, ALL DONE ppi 11605977
+
+APP DONE cur_tick<11605976> idx_tick<11605965> #val<19> trig_idx<5> 1st_idx<13> cur_idx<24>
+
+
+APP DONE cur_tick<11605976> ball_trig_idx<5> #ball_ims<19>
+
+PD_START APP <0>; sec<0> fr cnt<11605977>
+IDLE ON
+APP INITED...
+PD_BFCAM_READ_BALL: que_idx 5 trig_idx 5 in_que_idx 0
+GOOD pd_que_read: Not Valid Ball im in_idx 0 idx 5, num_ball_ims 19 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 6 trig_idx 5 in_que_idx 1
+GOOD pd_que_read: Not Valid Ball im in_idx 1 idx 6, num_ball_ims 19 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 7 trig_idx 5 in_que_idx 2
+GOOD pd_que_read: Not Valid Ball im in_idx 2 idx 7, num_ball_ims 19 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 8 trig_idx 5 in_que_idx 3
+GOOD pd_que_read: Not Valid Ball im in_idx 3 idx 8, num_ball_ims 19 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 9 trig_idx 5 in_que_idx 4
+GOOD pd_que_read: Not Valid Ball im in_idx 4 idx 9, num_ball_ims 19 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 10 trig_idx 5 in_que_idx 5
+GOOD pd_que_read: Not Valid Ball im in_idx 5 idx 10, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 11 trig_idx 5 in_que_idx 6
+GOOD pd_que_read: Not Valid Ball im in_idx 6 idx 11, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 12 trig_idx 5 in_que_idx 7
+GOOD pd_que_read: Not Valid Ball im in_idx 7 idx 12, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 13 trig_idx 5 in_que_idx 8
+GOOD pd_que_read: Not Valid Ball im in_idx 8 idx 13, num_ball_ims 19 tail_flag 1 ball_tail_flg 9
+PD_BFCAM_READ_BALL: que_idx 14 trig_idx 5 in_que_idx 9
+GOOD pd_que_read: Not Valid Ball im in_idx 9 idx 14, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 15 trig_idx 5 in_que_idx 10
+GOOD pd_que_read: Not Valid Ball im in_idx 10 idx 15, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 16 trig_idx 5 in_que_idx 11
+GOOD pd_que_read: Not Valid Ball im in_idx 11 idx 16, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 17 trig_idx 5 in_que_idx 12
+GOOD pd_que_read: Not Valid Ball im in_idx 12 idx 17, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 18 trig_idx 5 in_que_idx 13
+GOOD pd_que_read: Not Valid Ball im in_idx 13 idx 18, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 19 trig_idx 5 in_que_idx 14
+GOOD pd_que_read: Not Valid Ball im in_idx 14 idx 19, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 20 trig_idx 5 in_que_idx 15
+GOOD pd_que_read: Not Valid Ball im in_idx 15 idx 20, num_ball_ims 19 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 21 trig_idx 5 in_que_idx 16
+GOOD pd_que_read: Not Valid Ball im in_idx 16 idx 21, num_ball_ims 19 tail_flag 1 ball_tail_flg 9
+PD_BFCAM_READ_BALL: que_idx 22 trig_idx 5 in_que_idx 17
+ERR  pd_que_read: Not Valid Ball im in_idx 17 idx 22, num_ball_ims 19 tail_flag 1 ball_tail_flg 0
+COMM ERR 2  consec 0 total 0
+11606050 Self 11606049 ht 480 comm send cc  0 recv ff  0  time 151468.931085703  12 537
+         Peer      0 ht 480 comm send ff  0 recv ff  0  time 0.000000000   0 
+          1st line wait  2779 ns off  2779 ns delta 14748549
+
+
+ELOG WRITE DIAG ppi 11606058
+print_global_aborts app 0 CMD_POLL  INT_APP  NO_COMP  PTP_SYNC 
+ frame 11606058 11606057  last line usec 1412163306 cmd limit 7574 450 16780
+GLOBAL ABORTS epl 0 lwip 0 eth 0  COMM peer 0 frame 0 state 0 track 0 time 0
+elog to wr_buff 61633 chars
+PD START CMD 2 
+REQ APP WAKEUP <11607150>, set fp_request_start_app_idx 2
+IDLE GOT new app request, set event DONE ppi 11607151
+>>>LEAVE IDLE, BOTH DONE ppi 11607155
+PD_START APP <2>; sec<0> fr cnt<11607155>
+APP INITED...
+app_start: APP FRAME IDX 11607155
+FTEE: BONT tee rel deltas<78, 78>
+11608565 Self 11608564 ht  44 comm send cc  0 recv ff  0  time 151487.719013996  96 431
+         Peer 11608564 ht  44 comm send cc  0 recv ff  0  time 151487.719014117 115 
+          1st line wait   121 ns off   121 ns delta 1571694
+
+CLBT 11610262 FAIL: st(3) rv(0) m(3)
+WARNING: FAIL ppi 11610300, EVENT COUNT <37> EXCEEDED <36>!!!
+CLBT 11610300 FAIL: st(5) rv(0) m(5)
+CLBT: 11610324 past tee pos err  x_tee_dist -9
+WARNING LATE START ppi 11610324 time 367
+11610325 Self 11610324 ht  44 comm send 58  0 recv ff  0  time 151490.485207774 134 505
+         Peer 11610324 ht  44 comm send 60  0 recv ff  0  time 151490.485208077 109 
+          1st line wait   303 ns off   303 ns delta 1571702
+
+GTRK : tick<11610325> val_idx<21> val_tick
+WARNING: FAIL ppi 11611026, EVENT COUNT <37> EXCEEDED <36>!!!
+CLBT 11611026 FAIL: st(0) rv(0) m(0)
+GTRK : tick<11611061> val_idx<21> val_tick
+GTRK : tick<11611112> val_idx<8> val_tick
+WARNING: FAIL ppi 11611130, EVENT COUNT <19> EXCEEDED <18>!!!
+WARNING: FAIL ppi 11611139, EVENT COUNT <7> EXCEEDED <6>!!!
+FTEE: BONT tee rel deltas<78, 78>
+11612661 Self 11612660 ht  44 comm send cc  0 recv ff  0  time 151494.501899225 108 435
+         Peer 11612660 ht  44 comm send cc  0 recv ff  0  time 151494.501899533 112 
+          1st line wait   308 ns off   308 ns delta 1571701
+
+11616757 Self 11616756 ht  44 comm send cc  0 recv ff  0  time 151500.939587323 111 435
+         Peer 11616756 ht  44 comm send cc  0 recv ff  0  time 151500.939587277 109 
+          1st line wait   -46 ns off   -46 ns delta 1571701
+
+WARNING: FAIL ppi 11618692, EVENT COUNT <37> EXCEEDED <36>!!!
+CLBT 11618692 FAIL: st(9) rv(0) m(9)
+CLBT: 11618726 past tee pos err  x_tee_dist -8
+GTRK : tick<11618727> val_idx<7> val_tick
+CLBT: 11619373 past tee pos err  x_tee_dist 44
+WARNING LATE START ppi 11619373 time 369
+11619374 Self 11619373 ht  44 comm send 58  0 recv ff  0  time 151505.050552974 134 507
+         Peer 11619373 ht  44 comm send cc  0 recv ff  0  time 151505.050553085 106 
+          1st line wait   111 ns off   111 ns delta 1571701
+
+GTRK : tick<11619374> val_idx<14> val_tick
+>>>LEAVE DONE, ALL DONE ppi 11619385
+
+APP DONE cur_tick<11619384> idx_tick<11619374> #val<18> trig_idx<6> 1st_idx<14> cur_idx<24>
+
+
+APP DONE cur_tick<11619384> ball_trig_idx<6> #ball_ims<18>
+
+PD_START APP <0>; sec<0> fr cnt<11619385>
+IDLE ON
+APP INITED...
+PD_BFCAM_READ_BALL: que_idx 6 trig_idx 6 in_que_idx 0
+GOOD pd_que_read: Not Valid Ball im in_idx 0 idx 6, num_ball_ims 18 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 7 trig_idx 6 in_que_idx 1
+GOOD pd_que_read: Not Valid Ball im in_idx 1 idx 7, num_ball_ims 18 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 8 trig_idx 6 in_que_idx 2
+GOOD pd_que_read: Not Valid Ball im in_idx 2 idx 8, num_ball_ims 18 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 9 trig_idx 6 in_que_idx 3
+GOOD pd_que_read: Not Valid Ball im in_idx 3 idx 9, num_ball_ims 18 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 10 trig_idx 6 in_que_idx 4
+GOOD pd_que_read: Not Valid Ball im in_idx 4 idx 10, num_ball_ims 18 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 11 trig_idx 6 in_que_idx 5
+GOOD pd_que_read: Not Valid Ball im in_idx 5 idx 11, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 12 trig_idx 6 in_que_idx 6
+GOOD pd_que_read: Not Valid Ball im in_idx 6 idx 12, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 13 trig_idx 6 in_que_idx 7
+GOOD pd_que_read: Not Valid Ball im in_idx 7 idx 13, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 14 trig_idx 6 in_que_idx 8
+GOOD pd_que_read: Not Valid Ball im in_idx 8 idx 14, num_ball_ims 18 tail_flag 1 ball_tail_flg 9
+PD_BFCAM_READ_BALL: que_idx 15 trig_idx 6 in_que_idx 9
+GOOD pd_que_read: Not Valid Ball im in_idx 9 idx 15, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 16 trig_idx 6 in_que_idx 10
+GOOD pd_que_read: Not Valid Ball im in_idx 10 idx 16, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 17 trig_idx 6 in_que_idx 11
+GOOD pd_que_read: Not Valid Ball im in_idx 11 idx 17, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 18 trig_idx 6 in_que_idx 12
+GOOD pd_que_read: Not Valid Ball im in_idx 12 idx 18, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 19 trig_idx 6 in_que_idx 13
+GOOD pd_que_read: Not Valid Ball im in_idx 13 idx 19, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 20 trig_idx 6 in_que_idx 14
+GOOD pd_que_read: Not Valid Ball im in_idx 14 idx 20, num_ball_ims 18 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 21 trig_idx 6 in_que_idx 15
+GOOD pd_que_read: Not Valid Ball im in_idx 15 idx 21, num_ball_ims 18 tail_flag 1 ball_tail_flg 9
+PD_BFCAM_READ_BALL: que_idx 22 trig_idx 6 in_que_idx 16
+ERR  pd_que_read: Not Valid Ball im in_idx 16 idx 22, num_ball_ims 18 tail_flag 1 ball_tail_flg 0
+
+ELOG WRITE DIAG ppi 11619466
+print_global_aborts app 0 NO_POLL   INT_APP  NO_COMP  PTP_SYNC 
+ frame 11619466 11619465  last line usec 1455739615 cmd limit 460 450 16780
+GLOBAL ABORTS epl 0 lwip 0 eth 0  COMM peer 0 frame 0 state 0 track 0 time 0
+elog to wr_buff 61663 chars
+PD START CMD 2 
+REQ APP WAKEUP <11620551>, set fp_request_start_app_idx 2
+IDLE GOT new app request, set event DONE ppi 11620552
+>>>LEAVE IDLE, BOTH DONE ppi 11620556
+PD_START APP <2>; sec<0> fr cnt<11620556>
+APP INITED...
+app_start: APP FRAME IDX 11620556
+FTEE: BONT tee rel deltas<73, 74>
+11620853 Self 11620852 ht  44 comm send cc  0 recv ff  0  time 151523.051520838  97 435
+         Peer 11620852 ht  44 comm send cc  0 recv ff  0  time 151523.051521181 111 
+          1st line wait   343 ns off   343 ns delta 1571701
+
+11624949 Self 11624948 ht  44 comm send cc  0 recv ff  0  time 151529.489209017  98 436
+         Peer 11624948 ht  44 comm send cc  0 recv ff  0  time 151529.489208941 109 
+          1st line wait   -76 ns off   -76 ns delta 1571693
+
+WARNING: FAIL ppi 11625007, EVENT COUNT <37> EXCEEDED <36>!!!
+CLBT 11625007 FAIL: st(10) rv(0) m(10)
+CLBT: 11625042 past tee pos err  x_tee_dist -9
+WARNING LATE START ppi 11625042 time 369
+11625043 Self 11625042 ht  44 comm send 58  0 recv ff  0  time 151529.636948718 136 507
+         Peer 11625042 ht  44 comm send 60  0 recv ff  0  time 151529.636948845 108 
+          1st line wait   127 ns off   127 ns delta 1571701
+
+GTRK : tick<11625043> val_idx<19> val_tick
+GTRK : tick<11625689> val_idx<25> val_tick
+>>>LEAVE DONE, ALL DONE ppi 11625698
+
+APP DONE cur_tick<11625697> idx_tick<11625689> #val<16> trig_idx<17> 1st_idx<25> cur_idx<1>
+
+
+APP DONE cur_tick<11625697> ball_trig_idx<17> #ball_ims<16>
+
+PD_START APP <0>; sec<0> fr cnt<11625698>
+IDLE ON
+APP INITED...
+PD_BFCAM_READ_BALL: que_idx 17 trig_idx 17 in_que_idx 0
+GOOD pd_que_read: Not Valid Ball im in_idx 0 idx 17, num_ball_ims 16 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 18 trig_idx 17 in_que_idx 1
+GOOD pd_que_read: Not Valid Ball im in_idx 1 idx 18, num_ball_ims 16 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 19 trig_idx 17 in_que_idx 2
+GOOD pd_que_read: Not Valid Ball im in_idx 2 idx 19, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 20 trig_idx 17 in_que_idx 3
+GOOD pd_que_read: Not Valid Ball im in_idx 3 idx 20, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 21 trig_idx 17 in_que_idx 4
+GOOD pd_que_read: Not Valid Ball im in_idx 4 idx 21, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 22 trig_idx 17 in_que_idx 5
+GOOD pd_que_read: Not Valid Ball im in_idx 5 idx 22, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 23 trig_idx 17 in_que_idx 6
+GOOD pd_que_read: Not Valid Ball im in_idx 6 idx 23, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 24 trig_idx 17 in_que_idx 7
+GOOD pd_que_read: Not Valid Ball im in_idx 7 idx 24, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 25 trig_idx 17 in_que_idx 8
+GOOD pd_que_read: Not Valid Ball im in_idx 8 idx 25, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 26 trig_idx 17 in_que_idx 9
+GOOD pd_que_read: Not Valid Ball im in_idx 9 idx 26, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 27 trig_idx 17 in_que_idx 10
+GOOD pd_que_read: Not Valid Ball im in_idx 10 idx 27, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 28 trig_idx 17 in_que_idx 11
+GOOD pd_que_read: Not Valid Ball im in_idx 11 idx 28, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 29 trig_idx 17 in_que_idx 12
+GOOD pd_que_read: Not Valid Ball im in_idx 12 idx 29, num_ball_ims 16 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 30 trig_idx 17 in_que_idx 13
+GOOD pd_que_read: Not Valid Ball im in_idx 13 idx 30, num_ball_ims 16 tail_flag 1 ball_tail_flg 9
+PD_BFCAM_READ_BALL: que_idx 31 trig_idx 17 in_que_idx 14
+ERR  pd_que_read: Not Valid Ball im in_idx 14 idx 31, num_ball_ims 16 tail_flag 1 ball_tail_flg 0
+
+ELOG WRITE DIAG ppi 11625772
+print_global_aborts app 0 CMD_POLL  INT_APP  NO_COMP  PTP_SYNC 
+ frame 11625772 11625771  last line usec 1485614886 cmd limit 10425 450 16780
+GLOBAL ABORTS epl 0 lwip 0 eth 0  COMM peer 0 frame 0 state 0 track 0 time 0
+elog to wr_buff 61638 chars
+PD START CMD 2 
+REQ APP WAKEUP <11626883>, set fp_request_start_app_idx 2
+IDLE GOT new app request, set event DONE ppi 11626884
+>>>LEAVE IDLE, BOTH DONE ppi 11626888
+PD_START APP <2>; sec<0> fr cnt<11626888>
+APP INITED...
+app_start: APP FRAME IDX 11626888
+FTEE: BONT tee rel deltas<78, 78>
+11629045 Self 11629044 ht  44 comm send cc  0 recv ff  0  time 151551.851865478  99 436
+         Peer 11629044 ht  44 comm send cc  0 recv ff  0  time 151551.851866013 106 
+          1st line wait   535 ns off   535 ns delta 1571693
+
+CLBT 11631319 FAIL: st(3) rv(0) m(3)
+WARNING: FAIL ppi 11631357, EVENT COUNT <37> EXCEEDED <36>!!!
+CLBT 11631357 FAIL: st(6) rv(0) m(6)
+GTRK : tick<11631384> val_idx<24> val_tick
+GTRK : tick<11632048> val_idx<16> val_tick
+>>>LEAVE DONE, ALL DONE ppi 11632058
+
+APP DONE cur_tick<11632057> idx_tick<11632048> #val<17> trig_idx<8> 1st_idx<16> cur_idx<25>
+
+
+APP DONE cur_tick<11632057> ball_trig_idx<8> #ball_ims<17>
+
+PD_START APP <0>; sec<0> fr cnt<11632058>
+IDLE ON
+APP INITED...
+PD_BFCAM_READ_BALL: que_idx 8 trig_idx 8 in_que_idx 0
+GOOD pd_que_read: Not Valid Ball im in_idx 0 idx 8, num_ball_ims 17 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 9 trig_idx 8 in_que_idx 1
+GOOD pd_que_read: Not Valid Ball im in_idx 1 idx 9, num_ball_ims 17 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 10 trig_idx 8 in_que_idx 2
+GOOD pd_que_read: Not Valid Ball im in_idx 2 idx 10, num_ball_ims 17 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 11 trig_idx 8 in_que_idx 3
+GOOD pd_que_read: Not Valid Ball im in_idx 3 idx 11, num_ball_ims 17 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 12 trig_idx 8 in_que_idx 4
+GOOD pd_que_read: Not Valid Ball im in_idx 4 idx 12, num_ball_ims 17 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 13 trig_idx 8 in_que_idx 5
+GOOD pd_que_read: Not Valid Ball im in_idx 5 idx 13, num_ball_ims 17 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 14 trig_idx 8 in_que_idx 6
+GOOD pd_que_read: Not Valid Ball im in_idx 6 idx 14, num_ball_ims 17 tail_flag 1 ball_tail_flg 5
+PD_BFCAM_READ_BALL: que_idx 15 trig_idx 8 in_que_idx 7
+GOOD pd_que_read: Not Valid Ball im in_idx 7 idx 15, num_ball_ims 17 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 16 trig_idx 8 in_que_idx 8
+GOOD pd_que_read: Not Valid Ball im in_idx 8 idx 16, num_ball_ims 17 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 17 trig_idx 8 in_que_idx 9
+GOOD pd_que_read: Not Valid Ball im in_idx 9 idx 17, num_ball_ims 17 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 18 trig_idx 8 in_que_idx 10
+                                                                                                                                                      GOOD pd_que_read: Not Valid Ball im in_idx 10 idx 18, num_ball_ims 17 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 19 trig_idx 8 in_que_idx 11
+GOOD pd_que_read: Not Valid Ball im in_idx 11 idx 19, num_ball_ims 17 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 20 trig_idx 8 in_que_idx 12
+GOOD pd_que_read: Not Valid Ball im in_idx 12 idx 20, num_ball_ims 17 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 21 trig_idx 8 in_que_idx 13
+GOOD pd_que_read: Not Valid Ball im in_idx 13 idx 21, num_ball_ims 17 tail_flag 1 ball_tail_flg 3
+PD_BFCAM_READ_BALL: que_idx 22 trig_idx 8 in_que_idx 14
+GOOD pd_que_read: Not Valid Ball im in_idx 14 idx 22, num_ball_ims 17 tail_flag 1 ball_tail_flg 9
+PD_BFCAM_READ_BALL: que_idx 23 trig_idx 8 in_que_idx 15
+ERR  pd_que_read: Not Valid Ball im in_idx 15 idx 23, num_ball_ims 17 tail_flag 1 ball_tail_flg 0
+
+ELOG WRITE DIAG ppi 11632130
+print_global_aborts app 0 CMD_POLL  INT_APP  NO_COMP  PTP_SYNC 
+ frame 11632130 11632129  last line usec 1515956319 cmd limit 16003 450 16780
+GLOBAL ABORTS epl 0 lwip 0 eth 0  COMM peer 0 frame 0 state 0 track 0 time 0
+  rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<566> s< 0>[ 12  46 647] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v3 q30 s999
+
+
+
+11631965 567 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<567> s< 0>[ 10  43 629] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v6 q60 s999
+
+
+
+11631966 568 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<568> s< 0>[  9  43 648] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v1 q10 s999
+
+
+
+11631967 569 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<569> s< 0>[ 10  44 628] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v4 q40 s999
+
+
+
+11631968 570 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<570> s< 0>[ 10  45 648] R 17 B 1 
+ 15 (420,238) (420 244) 31x16 v2 q20 s999
+
+
+
+11631969 571 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<571> s< 0>[  9  43 644] R 19 B 1 
+ 15 (420,250) (420 242) 31x18 v4 q40 s999
+
+
+
+11631970 572 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<572> s< 0>[ 12  46 647] R 16 B 1 
+ 15 (420,238) (420 241) 31x16 v4 q40 s999
+
+
+
+11631971 573 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<573> s< 0>[  9  42 628] R 19 B 1 
+ 15 (420,250) (420 245) 31x18 v1 q10 s999
+
+
+
+11631972 574 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<574> s< 0>[  8  42 646] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v3 q30 s999
+
+
+
+11631973 575 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<575> s< 0>[ 13  47 644] R 19 B 1 
+ 15 (420,250) (420 245) 31x18 v3 q30 s999
+
+
+
+11631974 576 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<576> s< 0>[ 12  47 647] R 16 B 1 
+ 15 (420,238) (420 242) 31x16 v4 q40 s999
+
+
+
+11631975 577 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<577> s< 0>[  8  42 627] R 19 B 1 
+ 15 (420,250) (420 242) 31x18 v5 q50 s999
+
+
+
+11631976 578 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<578> s< 0>[  9  44 648] R 17 B 1 
+ 15 (420,238) (420 242) 31x17 v3 q30 s999
+
+
+
+11631977 579 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<579> s< 0>[ 10  44 628] R 19 B 1 
+ 15 (420,250) (420 245) 31x18 v0 q0 s999
+
+
+
+11631978 580 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<580> s< 0>[  8  42 647] R 16 B 1 
+ 15 (420,238) (420 243) 31x16 v3 q30 s999
+
+
+
+11631979 581 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<581> s< 0>[  9  43 627] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v5 q50 s999
+
+
+
+11631980 582 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<582> s< 0>[  8  43 647] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v1 q10 s999
+
+
+
+11631981 583 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<583> s< 0>[  8  42 627] R 19 B 1 
+ 15 (420,250) (420 245) 31x18 v2 q20 s999
+
+
+
+11631982 584 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<584> s< 0>[  7  42 648] R 16 B 1 
+ 15 (420,238) (420 242) 31x16 v3 q30 s999
+
+
+
+11631983 585 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<585> s< 0>[ 10  44 628] R 19 B 1 
+ 15 (420,249) (420 244) 31x18 v2 q20 s999
+
+
+
+11631984 586 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<586> s< 0>[  7  42 647] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v1 q10 s999
+
+
+
+11631985 587 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<587> s< 0>[  8  42 627] R 19 B 1 
+ 15 (420,250) (420 244) 31x18 v3 q30 s999
+
+
+
+11631986 588 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<588> s< 0>[  9  43 647] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v1 q10 s999
+
+
+
+11631987 589 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<589> s< 0>[  8  42 627] R 19 B 1 
+ 15 (420,249) (420 243) 31x18 v5 q50 s999
+
+
+
+11631988 590 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<590> s< 0>[  9  44 647] R 17 B 1 
+ 15 (420,238) (420 242) 31x16 v3 q30 s999
+
+
+
+11631989 591 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<591> s< 0>[ 10  44 645] R 19 B 1 
+ 15 (420,250) (420 241) 31x18 v4 q40 s999
+
+
+
+11631990 592 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<592> s< 0>[ 13  47 647] R 16 B 1 
+ 15 (420,238) (420 243) 31x16 v3 q30 s999
+
+
+
+11631991 593 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<593> s< 0>[  8  42 627] R 18 B 1 
+ 15 (420,249) (420 247) 31x17 v1 q10 s999
+
+
+
+11631992 594 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<594> s< 0>[ 10  45 648] R 16 B 1 
+ 15 (420,238) (420 244) 31x16 v2 q20 s999
+
+
+
+11631993 595 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<595> s< 0>[ 12  46 627] R 19 B 1 
+ 15 (420,250) (420 242) 31x18 v4 q40 s999
+
+
+
+11631994 596 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<596> s< 0>[  9  43 648] R 18 B 1 
+ 15 (420,238) (420 243) 31x17 v2 q20 s999
+
+
+
+11631995 597 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<597> s< 0>[ 14  49 645] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v6 q60 s999
+
+
+
+11631996 598 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<598> s< 0>[ 14  48 647] R 16 B 1 
+ 15 (420,238) (420 244) 31x16 v2 q20 s999
+
+
+
+11631997 599 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<599> s< 0>[ 12  45 645] R 19 B 1 
+ 15 (420,249) (420 244) 31x18 v3 q30 s999
+
+
+
+11631998 600 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<600> s< 0>[ 13  48 648] R 16 B 1 
+ 15 (420,238) (420 242) 31x16 v4 q40 s999
+
+
+
+11631999 601 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<601> s< 0>[ 10  44 644] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v4 q40 s999
+
+
+
+11632000 602 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<602> s< 0>[ 12  47 648] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v4 q40 s999
+
+
+
+11632001 603 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<603> s< 0>[ 11  46 645] R 19 B 1 
+ 15 (420,249) (420 243) 31x18 v5 q50 s999
+
+
+
+11632002 604 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<604> s< 0>[ 14  48 647] R 17 B 1 
+ 15 (420,238) (420 243) 31x17 v3 q30 s999
+
+
+
+11632003 605 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<605> s< 0>[ 10  45 643] R 19 B 1 
+ 15 (420,250) (420 242) 31x18 v3 q30 s999
+
+
+
+11632004 606 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<606> s< 0>[  7  41 647] R 16 B 1 
+ 15 (420,238) (420 241) 31x16 v2 q20 s999
+
+
+
+11632005 607 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<607> s< 0>[ 10  44 644] R 19 B 1 
+ 15 (420,250) (420 242) 31x18 v5 q50 s999
+
+
+
+11632006 608 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<608> s< 0>[ 12  46 648] R 16 B 1 
+ 15 (420,238) (420 244) 31x16 v1 q10 s999
+
+
+
+11632007 609 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<609> s< 0>[  9  42 645] R 19 B 1 
+ 15 (420,250) (420 241) 31x18 v6 q60 s999
+
+
+
+11632008 610 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<610> s< 0>[ 12  47 648] R 16 B 1 
+ 15 (420,238) (420 243) 31x16 v3 q30 s999
+
+
+
+11632009 611 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<611> s< 0>[ 10  44 645] R 19 B 1 
+ 15 (420,250) (420 244) 31x18 v3 q30 s999
+
+
+
+11632010 612 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<612> s< 0>[ 13  47 647] R 17 B 1 
+ 15 (420,238) (420 243) 31x17 v2 q20 s999
+
+
+
+11632011 613 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<613> s< 0>[  8  42 628] R 18 B 1 
+ 15 (420,249) (420 242) 31x17 v4 q40 s999
+
+
+
+11632012 614 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<614> s< 0>[  8  42 647] R 17 B 1 
+ 15 (420,238) (420 244) 31x17 v2 q20 s999
+
+
+
+11632013 615 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<615> s< 0>[  7  42 644] R 19 B 1 
+ 15 (420,250) (420 242) 31x18 v6 q60 s999
+
+
+
+11632014 616 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<616> s< 0>[ 12  47 647] R 16 B 1 
+ 15 (420,238) (420 242) 31x16 v3 q30 s999
+
+
+
+11632015 617 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<617> s< 0>[  8  42 628] R 18 B 1 
+ 15 (420,250) (420 242) 31x17 v2 q20 s999
+
+
+
+11632016 618 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<618> s< 0>[  9  44 647] R 17 B 1                                                                                                    ?Ì?          
+ 
+
+ 15 (420,238) (420 244) 31x17 v2 q20 s999
+
+
+
+11632017 619 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<619> s< 0>[ 10  45 645] R 19 B 1 
+ 15 (420,249) (420 243) 31x18 v4 q40 s999
+
+
+
+11632018 620 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<620> s< 0>[ 13  48 648] R 16 B 1 
+ 15 (420,238) (420 242) 31x16 v3 q30 s999
+
+
+
+11632019 621 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<621> s< 0>[  9  44 645] R 19 B 1 
+ 15 (420,249) (420 243) 31x18 v5 q50 s999
+
+
+
+11632020 622 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<622> s< 0>[ 12  47 647] R 16 B 1 
+ 15 (420,238) (420 244) 31x16 v3 q30 s999
+
+
+
+11632021 623 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<623> s< 0>[  9  43 627] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v4 q40 s999
+
+
+
+11632022 624 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<624> s< 0>[  7  42 648] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v1 q10 s999
+
+
+
+11632023 625 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<625> s< 0>[  9  43 628] R 19 B 1 
+ 15 (420,249) (420 242) 31x18 v4 q40 s999
+
+
+
+11632024 626 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<626> s< 0>[  9  44 648] R 16 B 1 
+ 15 (420,238) (420 245) 31x16 v1 q10 s999
+
+
+
+11632025 627 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<627> s< 0>[  8  42 627] R 18 B 1 
+ 15 (420,249) (420 241) 31x17 v4 q40 s999
+
+
+
+11632026 628 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<628> s< 0>[  8  43 647] R 16 B 1 
+ 15 (420,238) (420 246) 31x16 v2 q20 s999
+
+
+
+11632027 629 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<629> s< 0>[  9  43 628] R 19 B 1 
+ 15 (420,250) (420 241) 31x18 v6 q60 s999
+
+
+
+11632028 630 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<630> s< 0>[  8  43 647] R 17 B 1 
+ 15 (420,238) (420 241) 31x17 v3 q30 s999
+
+
+
+11632029 631 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<631> s< 0>[ 13  47 627] R 19 B 1 
+ 15 (420,250) (420 245) 31x18 v1 q10 s999
+
+
+
+11632030 632 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<632> s< 0>[  9  44 647] R 16 B 1 
+ 15 (420,238) (420 244) 31x16 v2 q20 s999
+
+
+
+11632031 633 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<633> s< 0>[  7  42 627] R 19 B 1 
+ 15 (420,250) (420 244) 31x18 v2 q20 s999
+
+
+
+11632032 634 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<634> s< 0>[  9  44 648] R 17 B 1 
+ 15 (420,238) (420 244) 31x17 v1 q10 s999
+
+
+
+11632033 635 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<635> s< 0>[  8  42 627] R 18 B 1 
+ 15 (420,250) (420 246) 31x17 v4 q40 s999
+
+
+
+11632034 636 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<636> s< 0>[  8  43 647] R 16 B 1 
+ 15 (420,238) (420 243) 31x16 v3 q30 s999
+
+
+
+11632035 637 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<637> s< 0>[  9  42 645] R 18 B 1 
+ 15 (420,250) (420 243) 31x17 v6 q60 s999
+
+
+
+11632036 638 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<638> s< 0>[ 13  47 647] R 16 B 1 
+ 15 (420,238) (420 243) 31x16 v3 q30 s999
+
+
+
+11632037 639 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<639> s< 0>[  8  43 645] R 19 B 1 
+ 15 (420,250) (420 244) 31x18 v4 q40 s999
+
+
+
+11632038 640 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<640> s< 0>[ 15  48 647] R 17 B 1 
+ 15 (420,238) (420 245) 31x17 v1 q10 s999
+
+
+
+11632039 641 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<641> s< 0>[  9  43 644] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v4 q40 s999
+
+
+
+11632040 642 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<642> s< 0>[ 11  46 647] R 16 B 1 
+ 15 (420,238) (420 242) 31x16 v3 q30 s999
+
+
+
+11632041 643 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<643> s< 0>[  9  43 646] R 19 B 1 
+ 15 (420,250) (420 244) 31x18 v2 q20 s999
+
+
+
+11632042 644 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<644> s< 0>[  7  53 647] R 23 B 2 
+ 63 (648,205) (648 205) 9x7 v1 q14 s999
+ 15 (420,238) (420 242) 31x16 v4 q40 s999
+
+
+
+11632043 645 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<645> s< 0>[ 13  47 646] R 19 B 1 
+ 15 (420,250) (420 243) 31x18 v4 q40 s999
+
+
+
+11632044 646 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<646> s< 0>[ 12  48 647] R 37 B 2 
+ 41 (556,217) (556 217) 9x21 v1 q666 s999
+ 15 (420,238) (420 243) 31x16 v2 q20 s999
+
+
+
+11632045 647 st:1 ev:1 re:0 rs:203 prs:243 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<647> s< 0>[ 14  48 644] R 22 B 2 
+ 15 (420,249) (420 243) 31x18 v4 q40 s999
+
+
+
+11632046 648 st:1 ev:1 re:0 rs:243 prs:203 ht:44 c(751,245) e(751,245) d:14 td(0,0) t(420,245) 
+ tt:1  nb:0 NB  g< 0> b< 0> t< 0> m<648> s< 0>[  8  45 647] R 41 B 2 
+ 41 (466,228) (466 228) 11x22 v1 q666 s999
+ 15 (420,238) (420 245) 31x17 v4 q40 s999
+
+
+
+11632047 649 st:1 ev:9 re:9 rs:221 prs:243 ht:44 c(396,244) e(372,243) d:14 td(-24,-1) t(420,245) 
+ tt:-1  nb:1 NB  g< 0> b< 0> t< 0> m<649> s< 0>[ 14  64 653] R 22 B 2 
+ 15 (396,250) (396 244) 31x18 v3 q30 s999
+
+
+
+11632048 1 st:12 ev:2 re:0 rs:229 prs:221 ht:44 c(335,245) e(274,246) d:34 td(-61,1) t(420,245) 
+ tt:0  nb:0 GB  g< 2> b< 0> t< 0> m<0> s< 0>[ 21  59 658] R 46 B 2 
+ 0 (335,244) (335 245) 33x32 v0 q0 s111
+
+
+
+11632049 2 st:12 ev:10 re:10 rs:227 prs:229 ht:38 c(274,246) e(221,246) d:34 td(-53,0) t(420,245) 
+ tt:0  nb:0 BB  g< 3> b< 1> t< 0> m<0> s< 0>[  7  51 651] R 37 B 3 
+ 0 (274,244) (274 246) 31x32 v2 q20 s111
+ 55 (369,230) (369 216) 9x3 v66 q666 s999
+
+
+
+11632050 3 st:12 ev:3 re:0 rs:221 prs:227 ht:38 c(220,244) e(166,242) d:34 td(-54,-2) t(420,245) 
+ tt:0  nb:0 BB  g< 4> b< 2> t< 0> m<0> s< 0>[ 13  49 646] R 33 B 2 
+ 0 (220,243) (220 244) 31x31 v2 q20 s54
+
+
+
+11632051 4 st:12 ev:3 re:0 rs:225 prs:221 ht:38 c(165,244) e(111,244) d:34 td(-54,0) t(420,245) 
+ tt:0  nb:0 BB  g< 5> b< 3> t< 0> m<0> s< 0>[ 19  63 648] R 38 B 2 
+ 0 (165,243) (165 244) 31x30 v1 q10 s44
+ 23 (313,223) (313 223) 9x7 v2 q666 s999
+
+
+
+11632052 5 st:12 ev:3 re:0 rs:221 prs:225 ht:38 c(110,243) e(55,242) d:34 td(-55,-1) t(420,245) 
+ tt:0  nb:0 BB  g< 6> b< 4> t< 0> m<0> s< 0>[ 13  50 642] R 40 B 2 
+ 0 (110,243) (110 243) 33x32 v2 q20 s47
+
+
+
+11632053 6 st:12 ev:3 re:0 rs:230 prs:221 ht:38 c(54,245) e(0,247) d:34 td(-56,2) t(420,245) 
+ tt:0  nb:0 BB  g< 7> b< 5> t< 0> m<0> s< 0>[ 16  59 627] R 41 B 2 
+ 0 (54,242) (54 245) 31x29 v1 q10 s49
+ 23 (256,223) (256 223) 9x6 v2 q666 s999
+
+
+
+11632054 7 st:12 ev:8 re:8 rs:232 prs:230 ht:38 c(0,247) e(0,249) d:34 td(-56,2) t(420,245) 
+ tt:0  nb:0 NB  g< 7> b< 5> t< 0> m<1> s< 0>[ 18  41 619] R 34 B 2 
+ 23 (5,241) (5 241) 13x25 v1 q666 s999
+
+
+
+11632055 1 st:6 ev:4 re:0 rs:226 prs:232 ht:38 c(420,245) e(420,245) d:34 td(0,0) t(420,245) 
+ tt:-1  nb:0 NB  g< 7> b< 5> t< 0> m<0> s< 0>[ 15  35 589] 
+
+
+11632056 2 st:6 ev:8 re:8 rs:226 prs:226 ht:38 c(420,245) e(420,245) d:34 td(0,0) t(420,245) 
+ tt:-1  nb:0 NB  g< 7> b< 5> t< 0> m<0> s< 0>[  9  29 608] 
+
+
+11632057 1 st:10 ev:8 re:15 rs:226 prs:226 ht:38 c(0,0) e(0,0) d:36 td(0,0) t(420,245) 
+ tt:0  nb:0 NB  g< 7> b< 5> t< 0> m<0> s< 0>[ 13  29 638] 
+
+
+11632058 1 st:32 ev:5 re:0 rs:0 prs:0 ht:480 c(0,0) e(0,0) d:34 td(0,0) t(0,0) 
+ tt:0  nb:0 NB  g< 0> b< 0> t< 0> m<0> s< 0>[ 19   0 573] 
+
+ Get Mem 0 returned memtable base size 376 recv 60 send 72
+Supply Mem 0 returned memtable size 480 num 8 send 576 num 8
+min bufsize 1560
+
+init_stack eth buff buff_len 1048576 ifce_len 165120 lwip_len 883456
+
+
+lwip_init mem ram_len 102416 memp_len 70003
+
+mem_init 102400
+ptp recv stack 1 pbufs push 1 00000000 pop 0 0100db74  cnt 1
+ptp recv stack 0 pbufs push 1 00000000 pop 1 00000000  cnt 1
+ptp recv stack 1 pbufs push 2 00000000 pop 1 0100db74  cnt 2
+ptp recv stack 0 pbufs push 2 00000000 pop 2 00000000  cnt 2
+ptp recv stack 1 pbufs push 3 00000000 pop 2 0100db74  cnt 3
+ptp recv stack 0 pbufs push 3 00000000 pop 3 00000000  cnt 3
+ptp recv stack 1 pbufs push 0 00000000 pop 3 0100db74  cnt 4
+ptp recv stack 0 pbufs push 0 00000000 pop 0 00000000  cnt 4
+ptp recv stack 1 pbufs push 1 00000000 pop 0 0100db74  cnt 5
+ptp recv stack 0 pbufs push 1 00000000 pop 1 00000000  cnt 5
+ptp recv stack 1 pbufs push 2 00000000 pop 1 0100db74  cnt 6
+ptp recv stack 0 pbufs push 2 00000000 pop 2 00000000  cnt 6
+ptp recv stack 1 pbufs push 3 00000000 pop 2 0100db74  cnt 7
+ptp recv stack 0 pbufs push 3 00000000 pop 3 00000000  cnt 7
+     0 s        121 ns 
+CLOCK 15 63 of 346831 total    121 avg     -3 min   -138 max    144
+ENABLE CMD epl  ppi 11626295  5927 usec
+
+DISABLE CMD epl  ppi 11626323  12495 usec
+SYNC 4294953614  ts 0.000000000 ns  
+
+RX STMP 151539.884031534 ns 
+ ppi 11626324 epl poll time 194 usec
+SYNC FOLLOW 4294953614  ts 151539.884015552 ns  
+
+updateOffset:  offset_from_master:            0 s       -153 ns 
+CLOCK 16 63 of 346832 total    -38 avg      0 min   -138 max    144
+ENABLE CMD epl  ppi 11626324  16706 usec
+
+DISABLE CMD epl  ppi 11626353  5982 usec
+SYNC 4294953615  ts 0.000000000 ns  
+
+RX STMP 151540.320937659 ns 
+ ppi 11626353 epl poll time 196 usec
+SYNC FOLLOW 4294953615  ts 151540.320921512 ns  
+
+updateOffset:  offset_from_master:            0 s         12 ns 
+CLOCK 17 63 of 346833 total     12 avg      0 min   -138 max    144
+DELAY REQ 17233  ts 151540.321331218 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151540.321423698 ns
+ppi 11626353 epl poll time 260 usec
+RECV DELAY REQ 17233  ts 151540.321439641 ns 
+
+slave_to_master_delay 15943 limit 64000
+DELAY 20 63 dreqs 115604 total  15931 avg  15930 min  15836 max  16087
+ENABLE CMD epl  ppi 11626354  10207 usec
+
+DISABLE CMD epl  ppi 11626382  16764 usec
+SYNC 4294953616  ts 0.000000000 ns  
+
+RX STMP 151540.757846526 ns 
+ ppi 11626383 epl poll time 200 usec
+SYNC FOLLOW 4294953616  ts 151540.757830472 ns  
+
+updateOffset:  offset_from_master:            0 s        -84 ns 
+CLOCK 18 63 of 346834 total    -84 avg      2 min      0 max    144
+ENABLE CMD epl  ppi 11626384  3702 usec
+
+DISABLE CMD epl  ppi 11626412  10263 usec
+SYNC 4294953617  ts 0.000000000 ns  
+
+RX STMP 151541.194752697 ns 
+ ppi 11626412 epl poll time 199 usec
+SYNC FOLLOW 4294953617  ts 151541.194736552 ns  
+
+updateOffset:  offset_from_master:            0 s          7 ns 
+CLOCK 19 63 of 346835 total      7 avg      0 min    -84 max    144
+ENABLE CMD epl  ppi 11626413  14480 usec
+
+DISABLE CMD epl  ppi 11626442  3770 usec
+SYNC 4294953618  ts 0.000000000 ns  
+
+RX STMP 151541.631661347 ns 
+ ppi 11626442 epl poll time 193 usec
+SYNC FOLLOW 4294953618  ts 151541.631645272 ns  
+
+updateOffset:  offset_from_master:            0 s        -63 ns 
+CLOCK 20 63 of 346836 total    -63 avg      2 min    -84 max    144
+DELAY REQ 17234  ts 151541.632065843 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151541.632155643 ns
+ppi 11626442 epl poll time 253 usec
+RECV DELAY REQ 17234  ts 151541.632171449 ns 
+
+slave_to_master_delay 15806 limit 64000
+DELAY 21 63 dreqs 115605 total  15864 avg  15931 min  15836 max  16087
+ENABLE CMD epl  ppi 11626443  7982 usec
+
+DISABLE CMD epl  ppi 11626471  14531 usec
+SYNC 4294953619  ts 0.000000000 ns  
+
+RX STMP 151542.068572107 ns 
+ ppi 11626472 epl poll time 197 usec
+SYNC FOLLOW 4294953619  ts 151542.068555832 ns  
+
+updateOffset:  offset_from_master:            0 s        146 ns 
+CLOCK 21 63 of 346837 total    146 avg      2 min    -84 max    144
+ENABLE CMD epl  ppi 11626473  1477 usec
+
+DISABLE CMD epl  ppi 11626501  8030 usec
+SYNC 4294953620  ts 0.000000000 ns  
+
+RX STMP 151542.505475218 ns 
+ ppi 11626501 epl poll time 192 usec
+SYNC FOLLOW 4294953620  ts 151542.505459112 ns  
+
+updateOffset:  offset_from_master:            0 s        -23 ns 
+CLOCK 22 63 of 346838 total    -23 avg      3 min    -84 max    146
+ENABLE CMD epl  ppi 11626502  12260 usec
+
+DISABLE CMD epl  ppi 11626531  1536 usec
+SYNC 4294953621  ts 0.000000000 ns  
+
+RX STMP 151542.942376210 ns 
+ ppi 11626531 epl poll time 192 usec
+SYNC FOLLOW 4294953621  ts 151542.942360192 ns  
+
+updateOffset:  offset_from_master:            0 s       -111 ns 
+CLOCK 23 63 of 346839 total   -111 avg      4 min      0 max    146
+DELAY REQ 17235  ts 151542.942779842 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151542.942872163 ns
+ppi 11626531 epl poll time 257 usec
+RECV DELAY REQ 17235  ts 151542.942888137 ns 
+
+slave_to_master_delay 15974 limit 64000
+DELAY 22 63 dreqs 115606 total  15944 avg  15930 min  15836 max  16087
+ENABLE CMD epl  ppi 11626532  5745 usec
+
+DISABLE CMD epl  ppi 11626560  12311 usec
+SYNC 4294953622  ts 0.000000000 ns  
+
+RX STMP 151543.379357698 ns 
+ ppi 11626561 epl poll time 202 usec
+SYNC FOLLOW 4294953622  ts 151543.379341392 ns  
+
+updateOffset:  offset_from_master:            0 s        174 ns 
+CLOCK 24 63 of 346840 total     43 avg      1 min   -111 max    146
+ENABLE CMD epl  ppi 11626561  16530 usec
+
+DISABLE CMD epl  ppi 11626590  5797 usec
+SYNC 4294953623  ts 0.000000000 ns  
+
+RX STMP 151543.816191538 ns 
+ ppi 11626590 epl poll time 193 usec
+SYNC FOLLOW 4294953623  ts 151543.816175392 ns  
+
+updateOffset:  offset_from_master:            0 s         14 ns 
+CLOCK 25 63 of 346841 total     14 avg      3 min   -111 max    146
+ENABLE CMD epl  ppi 11626591  10017 usec
+
+DISABLE CMD epl  ppi 11626619  16589 usec
+SYNC 4294953624  ts 0.000000000 ns  
+
+RX STMP 151544.253097086 ns 
+ ppi 11626620 epl poll time 201 usec
+SYNC FOLLOW 4294953624  ts 151544.253080952 ns  
+
+updateOffset:  offset_from_master:            0 s          2 ns 
+CLOCK 26 63 of 346842 total      2 avg      3 min   -111 max    146
+DELAY REQ 17236  ts 151544.253497005 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151544.253588205 ns
+ppi 11626620 epl poll time 255 usec
+RECV DELAY REQ 17236  ts 151544.253604025 ns 
+
+slave_to_master_delay 15820 limit 64000
+DELAY 23 63 dreqs 115607 total  15868 avg  15932 min  15836 max  16087
+ENABLE CMD epl  ppi 11626621  3520 usec
+
+DISABLE CMD epl  ppi 11626649  10078 usec
+SYNC 4294953625  ts 0.000000000 ns  
+
+RX STMP 151544.690006966 ns 
+ ppi 11626649 epl poll time 199 usec
+SYNC FOLLOW 4294953625  ts 151544.689990752 ns  
+
+updateOffset:  offset_from_master:            0 s         84 ns 
+CLOCK 27 63 of 346843 total     84 avg      3 min   -111 max    146
+ENABLE CMD epl  ppi 11626650  14298 usec
+
+DISABLE CMD epl  ppi 11626679  3584 usec
+SYNC 4294953626  ts 0.000000000 ns  
+
+RX STMP 151545.126914764 ns 
+ ppi 11626679 epl poll time 193 usec
+SYNC FOLLOW 4294953626  ts 151545.126898592 ns  
+
+updateOffset:  offset_from_master:            0 s         42 ns 
+CLOCK 28 63 of 346844 total     42 avg      3 min   -111 max    146
+ENABLE CMD epl  ppi 11626680  7798 usec
+
+DISABLE CMD epl  ppi 11626708  14360 usec
+SYNC 4294953627  ts 0.000000000 ns  
+
+RX STMP 151545.563814916 ns 
+ ppi 11626709 epl poll time 199 usec
+SYNC FOLLOW 4294953627  ts 151545.563798712 ns  
+
+updateOffset:  offset_from_master:            0 s         74 ns 
+CLOCK 29 63 of 346845 total     74 avg      4 min   -111 max    146
+DELAY REQ 17237  ts 151545.564217251 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151545.564307970 ns
+ppi 11626709 epl poll time 256 usec
+RECV DELAY REQ 17237  ts 151545.564324073 ns 
+
+slave_to_master_delay 16103 limit 64000
+DELAY 24 63 dreqs 115608 total  16009 avg  15930 min  15836 max  16087
+ENABLE CMD epl  ppi 11626710  1282 usec
+
+DISABLE CMD epl  ppi 11626738  7845 usec
+SYNC 4294953628  ts 0.000000000 ns  
+
+RX STMP 151546.000729805 ns 
+ ppi 11626738 epl poll time 185 usec
+SYNC FOLLOW 4294953628  ts 151546.000713872 ns  
+
+updateOffset:  offset_from_master:            0 s       -209 ns 
+CLOCK 30 63 of 346846 total    -52 avg      4 min   -111 max    146
+ENABLE CMD epl  ppi 11626739  12060 usec
+
+DISABLE CMD epl  ppi 11626768  1351 usec
+SYNC 4294953629  ts 0.000000000 ns  
+
+RX STMP 151546.437631299 ns 
+ ppi 11626768 epl poll time 198 usec
+SYNC FOLLOW 4294953629  ts 151546.437615392 ns  
+
+updateOffset:  offset_from_master:            0 s       -235 ns 
+CLOCK 31 63 of 346847 total    -58 avg      3 min   -111 max    146
+ENABLE CMD epl  ppi 11626769  5555 usec
+
+DISABLE CMD epl  ppi 11626797  12128 usec
+SYNC 4294953630  ts 0.000000000 ns  
+
+RX STMP 151546.874767519 ns 
+ ppi 11626798 epl poll time 206 usec
+SYNC FOLLOW 4294953630  ts 151546.874751552 ns  
+
+updateOffset:  offset_from_master:            0 s       -175 ns 
+CLOCK 32 63 of 346848 total    -43 avg      4 min   -111 max    146
+DELAY REQ 17238  ts 151546.875176022 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151546.875266142 ns
+ppi 11626798 epl poll time 255 usec
+RECV DELAY REQ 17238  ts 151546.875282161 ns 
+
+slave_to_master_delay 16019 limit 64000
+DELAY 25 63 dreqs 115609 total  15907 avg  15930 min  15836 max  16087
+ENABLE CMD epl  ppi 11626798  16341 usec
+
+DISABLE CMD epl  ppi 11626827  5613 usec
+SYNC 4294953631  ts 0.000000000 ns  
+
+RX STMP 151547.311456524 ns 
+ ppi 11626827 epl poll time 195 usec
+SYNC FOLLOW 4294953631  ts 151547.311440432 ns  
+
+updateOffset:  offset_from_master:            0 s        -40 ns 
+CLOCK 33 63 of 346849 total    -40 avg      3 min   -111 max    146
+ENABLE CMD epl  ppi 11626828  9835 usec
+
+DISABLE CMD epl  ppi 11626856  16407 usec
+SYNC 4294953632  ts 0.000000000 ns  
+
+RX STMP 151547.748353127 ns 
+ ppi 11626857 epl poll time 203 usec
+SYNC FOLLOW 4294953632  ts 151547.748337032 ns  
+
+updateOffset:  offset_from_master:            0 s        -37 ns 
+CLOCK 34 63 of 346850 total    -37 avg      2 min   -111 max    146
+ENABLE CMD epl  ppi 11626858  3335 usec
+
+DISABLE CMD epl  ppi 11626886  9894 usec
+SYNC 4294953633  ts 0.000000000 ns  
+
+RX STMP 151548.185261996 ns 
+ ppi 11626886 epl poll time 191 usec
+SYNC FOLLOW 4294953633  ts 151548.185245952 ns  
+
+updateOffset:  offset_from_master:            0 s        -88 ns 
+CLOCK 35 63 of 346851 total    -88 avg      1 min   -111 max    146
+DELAY REQ 17239  ts 151548.185654316 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151548.185744157 ns
+ppi 11626886 epl poll time 255 usec
+RECV DELAY REQ 17239  ts 151548.185760257 ns 
+
+slave_to_master_delay 16100 limit 64000
+DELAY 26 63 dreqs 115610 total  16008 avg  15929 min  15836 max  16087
+ENABLE CMD epl  ppi 11626887  14104 usec
+
+DISABLE CMD epl  ppi 11626986  752 usec
+SYNC 4294953634  ts 0.000000000 ns  
+
+RX STMP 151548.622608965 ns 
+ ppi 11626989 epl poll time 272 usec
+SYNC FOLLOW 4294953634  ts 151548.622593032 ns  
+
+updateOffset:  offset_from_master:            0 s       -213 ns 
+CLOCK 36 63 of 346852 total    -53 avg      0 min   -111 max    146
+ppi 11626989 epl poll time 164 usec
+ENABLE CMD epl  ppi 11626997  1638 usec
+
+DISABLE CMD epl  ppi 11627264  1390 usec
+SYNC 4294953635  ts 0.000000000 ns  
+
+RX STMP 151549.059546771 ns 
+ ppi 11627267 epl poll time 266 usec
+SYNC FOLLOW 4294953635  ts 151549.059530792 ns  
+
+updateOffset:  offset_from_master:            0 s       -167 ns 
+CLOCK 37 63 of 346853 total    -41 avg      0 min   -111 max    146
+ppi 11627267 epl poll time 153 usec
+ENABLE CMD epl  ppi 11627276  785 usec
+
+DISABLE CMD epl  ppi 11627542  1358 usec
+SYNC 4294953636  ts 0.000000000 ns  
+
+RX STMP 151549.496478212 ns 
+ ppi 11627545 epl poll time 248 usec
+SYNC FOLLOW 4294953636  ts 151549.496462152 ns  
+
+updateOffset:  offset_from_master:            0 s        -86 ns 
+CLOCK 38 63 of 346854 total    -86 avg      0 min   -111 max    146
+ppi 11627545 epl poll time 151 usec
+DELAY REQ 17240  ts 151549.497970194 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151549.498081075 ns
+ppi 11627546 epl poll time 327 usec
+RECV DELAY REQ 17240  ts 151549.498097161 ns 
+
+slave_to_master_delay 16086 limit 64000
+DELAY 27 63 dreqs 115611 total  16008 avg  15930 min  15836 max  16087
+ENABLE CMD epl  ppi 11627554  752 usec
+
+DISABLE CMD epl  ppi 11627820  1327 usec
+SYNC 4294953637  ts 0.000000000 ns  
+
+RX STMP 151549.933442179 ns 
+ ppi 11627823 epl poll time 251 usec
+SYNC FOLLOW 4294953637  ts 151549.933426192 ns  
+
+updateOffset:  offset_from_master:            0 s       -170 ns 
+CLOCK 39 63 of 346855 total    -42 avg     -1 min   -111 max    146
+ppi 11627823 epl poll time 180 usec
+ENABLE CMD epl  ppi 11627832  750 usec
+
+DISABLE CMD epl  ppi 11628098  1293 usec
+SYNC 4294953638  ts 0.000000000 ns  
+
+RX STMP 151550.370343666 ns 
+ ppi 11628101 epl poll time 268 usec
+SYNC FOLLOW 4294953638  ts 151550.370327472 ns  
+
+updateOffset:  offset_from_master:            0 s         37 ns 
+CLOCK 40 63 of 346856 total     37 avg     -4 min   -111 max    146
+ppi 11628101 epl poll time 166 usec
+ENABLE CMD epl  ppi 11628110  749 usec
+
+DISABLE CMD epl  ppi 11628376  1259 usec
+SYNC 4294953639  ts 0.000000000 ns  
+
+RX STMP 151550.807275075 ns 
+ ppi 11628379 epl poll time 267 usec
+SYNC FOLLOW 4294953639  ts 151550.807258912 ns  
+
+updateOffset:  offset_from_master:            0 s          6 ns 
+CLOCK 41 63 of 346857 total      6 avg     -3 min   -111 max    146
+ppi 11628379 epl poll time 165 usec
+DELAY REQ 17241  ts 151550.808772216 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151550.808879136 ns
+ppi 11628380 epl poll time 315 usec
+RECV DELAY REQ 17241  ts 151550.808895249 ns 
+
+slave_to_master_delay 16113 limit 64000
+DELAY 28 63 dreqs 115612 total  16027 avg  15931 min  15836 max  16087
+ENABLE CMD epl  ppi 11628388  749 usec
+
+DISABLE CMD epl  ppi 11628654  1224 usec
+SYNC 4294953640  ts 0.000000000 ns  
+
+RX STMP 151551.244254347 ns 
+ ppi 11628657 epl poll time 264 usec
+SYNC FOLLOW 4294953640  ts 151551.244238312 ns  
+
+updateOffset:  offset_from_master:            0 s       -134 ns 
+CLOCK 42 63 of 346858 total   -134 avg     -2 min   -111 max    146
+ppi 11628657 epl poll time 166 usec
+ENABLE CMD epl  ppi 11628666  788 usec
+
+DISABLE CMD epl  ppi 11628932  1182 usec
+SYNC 4294953641  ts 0.000000000 ns  
+
+RX STMP 151551.681189247 ns 
+ ppi 11628935 epl poll time 246 usec
+SYNC FOLLOW 4294953641  ts 151551.681173112 ns  
+
+updateOffset:  offset_from_master:            0 s        -34 ns 
+CLOCK 43 63 of 346859 total    -34 avg     -7 min   -134 max    146
+ppi 11628935 epl poll time 151 usec
+ENABLE CMD epl  ppi 11628944  786 usec
+
+DISABLE CMD epl  ppi 11629210  1154 usec
+SYNC 4294953642  ts 0.000000000 ns  
+
+RX STMP 151552.118120447 ns 
+ ppi 11629213 epl poll time 251 usec
+SYNC FOLLOW 4294953642  ts 151552.118104232 ns  
+
+updateOffset:  offset_from_master:            0 s         46 ns 
+CLOCK 44 63 of 346860 total     46 avg     -8 min   -134 max    146
+ppi 11629213 epl poll time 180 usec
+DELAY REQ 17242  ts 151552.119615920 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151552.119711479 ns
+ppi 11629214 epl poll time 318 usec
+RECV DELAY REQ 17242  ts 151552.119727377 ns 
+
+slave_to_master_delay 15898 limit 64000
+DELAY 29 63 dreqs 115613 total  15926 avg  15935 min  64000 max  16087
+ENABLE CMD epl  ppi 11629222  790 usec
+
+DISABLE CMD epl  ppi 11629488  1117 usec
+SYNC 4294953643  ts 0.000000000 ns  
+
+RX STMP 151552.555053629 ns                                                                                    ô  ˜æ[Z        ÓVZ                                        Ž &                
+ ppi 11629491 epl poll time 251 usec
+SYNC FOLLOW 4294953643  ts 151552.555037352 ns  
+
+updateOffset:  offset_from_master:            0 s        100 ns 
+CLOCK 45 63 of 346861 total    100 avg     -6 min   -134 max    146
+ppi 11629491 epl poll time 153 usec
+ENABLE CMD epl  ppi 11629500  789 usec
+
+DISABLE CMD epl  ppi 11629766  1102 usec
+SYNC 4294953644  ts 0.000000000 ns  
+
+RX STMP 151552.991987526 ns 
+ ppi 11629769 epl poll time 258 usec
+SYNC FOLLOW 4294953644  ts 151552.991971512 ns  
+
+updateOffset:  offset_from_master:            0 s       -163 ns 
+CLOCK 46 63 of 346862 total    -40 avg     -4 min   -134 max    146
+ppi 11629770 epl poll time 171 usec
+ENABLE CMD epl  ppi 11629778  789 usec
+
+DISABLE CMD epl  ppi 11630044  1073 usec
+SYNC 4294953645  ts 0.000000000 ns  
+
+RX STMP 151553.428918763 ns 
+ ppi 11630047 epl poll time 253 usec
+SYNC FOLLOW 4294953645  ts 151553.428902592 ns  
+
+updateOffset:  offset_from_master:            0 s         -6 ns 
+CLOCK 47 63 of 346863 total     -6 avg     -5 min   -134 max    146
+DELAY REQ 17243  ts 151553.430399577 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151553.430507337 ns
+ppi 11630048 epl poll time 319 usec
+RECV DELAY REQ 17243  ts 151553.430523185 ns 
+
+slave_to_master_delay 15848 limit 64000
+DELAY 30 63 dreqs 115614 total  15905 avg  15932 min  15926 max      0
+ENABLE CMD epl  ppi 11630056  788 usec
+
+DISABLE CMD epl  ppi 11630322  1034 usec
+SYNC 4294953646  ts 0.000000000 ns  
+
+RX STMP 151553.865840246 ns 
+ ppi 11630325 epl poll time 253 usec
+SYNC FOLLOW 4294953646  ts 151553.865823992 ns  
+
+updateOffset:  offset_from_master:            0 s         82 ns 
+CLOCK 48 63 of 346864 total     82 avg     -3 min   -134 max    146
+ppi 11630325 epl poll time 167 usec
+ENABLE CMD epl  ppi 11630334  789 usec
+
+DISABLE CMD epl  ppi 11630600  1007 usec
+SYNC 4294953647  ts 0.000000000 ns  
+
+RX STMP 151554.302785673 ns 
+ ppi 11630603 epl poll time 257 usec
+SYNC FOLLOW 4294953647  ts 151554.302769592 ns  
+
+updateOffset:  offset_from_master:            0 s        -91 ns 
+CLOCK 49 63 of 346865 total    -91 avg     -1 min   -134 max    146
+ppi 11630604 epl poll time 200 usec
+ENABLE CMD epl  ppi 11630612  789 usec
+
+DISABLE CMD epl  ppi 11630878  965 usec
+SYNC 4294953648  ts 0.000000000 ns  
+
+RX STMP 151554.739720806 ns 
+ ppi 11630881 epl poll time 254 usec
+SYNC FOLLOW 4294953648  ts 151554.739704352 ns  
+
+updateOffset:  offset_from_master:            0 s        282 ns 
+CLOCK 50 63 of 346866 total     70 avg     -3 min   -134 max    146
+ppi 11630881 epl poll time 151 usec
+DELAY REQ 17244  ts 151554.741213668 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151554.741312948 ns
+ppi 11630882 epl poll time 325 usec
+RECV DELAY REQ 17244  ts 151554.741328713 ns 
+
+slave_to_master_delay 15765 limit 64000
+DELAY 31 63 dreqs 115615 total  15967 avg  15933 min  15905 max  15905
+ENABLE CMD epl  ppi 11630890  788 usec
+
+DISABLE CMD epl  ppi 11631156  938 usec
+SYNC 4294953649  ts 0.000000000 ns  
+
+RX STMP 151555.176653498 ns 
+ ppi 11631159 epl poll time 253 usec
+SYNC FOLLOW 4294953649  ts 151555.176637152 ns  
+
+updateOffset:  offset_from_master:            0 s        162 ns 
+CLOCK 51 63 of 346867 total     40 avg     -4 min   -134 max    146
+ENABLE CMD epl  ppi 11631168  785 usec
+
+DISABLE CMD epl  ppi 11631435  1608 usec
+SYNC 4294953650  ts 0.000000000 ns  
+
+RX STMP 151555.614504202 ns 
+ ppi 11631439 epl poll time 249 usec
+SYNC FOLLOW 4294953650  ts 151555.614487952 ns  
+
+updateOffset:  offset_from_master:            0 s         66 ns 
+CLOCK 52 63 of 346868 total     66 avg     -4 min   -134 max    146
+ppi 11631439 epl poll time 153 usec
+ENABLE CMD epl  ppi 11631447  1008 usec
+
+DISABLE CMD epl  ppi 11631714  767 usec
+SYNC 4294953651  ts 0.000000000 ns  
+
+RX STMP 151556.051439658 ns 
+ ppi 11631717 epl poll time 250 usec
+SYNC FOLLOW 4294953651  ts 151556.051423272 ns  
+
+updateOffset:  offset_from_master:            0 s        202 ns 
+CLOCK 53 63 of 346869 total     50 avg     -1 min   -134 max    146
+ppi 11631717 epl poll time 154 usec
+DELAY REQ 17245  ts 151556.052933827 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151556.053041066 ns
+ppi 11631718 epl poll time 321 usec
+RECV DELAY REQ 17245  ts 151556.053056825 ns 
+
+slave_to_master_delay 15759 limit 64000
+DELAY 32 63 dreqs 115616 total  15940 avg  15933 min  15905 max  15967
+ENABLE CMD epl  ppi 11631726  749 usec
+
+DISABLE CMD epl  ppi 11631992  735 usec
+SYNC 4294953652  ts 0.000000000 ns  
+
+RX STMP 151556.488371842 ns 
+ ppi 11631995 epl poll time 265 usec
+SYNC FOLLOW 4294953652  ts 151556.488355592 ns  
+
+updateOffset:  offset_from_master:            0 s         74 ns 
+CLOCK 54 63 of 346870 total     74 avg     -2 min   -134 max    146
+ppi 11631995 epl poll time 178 usec
+ENABLE CMD epl  ppi 11632004  734 usec
+
+DISABLE CMD epl  ppi 11632081  11213 usec
+SYNC 4294953653  ts 0.000000000 ns  
+
+RX STMP 151556.926117283 ns 
+ ppi 11632082 epl poll time 204 usec
+SYNC FOLLOW 4294953653  ts 151556.926100992 ns  
+
+updateOffset:  offset_from_master:            0 s        115 ns 
+CLOCK 55 63 of 346871 total    115 avg      0 min   -134 max    146
+ENABLE CMD epl  ppi 11632082  15436 usec
+
+DISABLE CMD epl  ppi 11632111  5750 usec
+SYNC 4294953654  ts 0.000000000 ns  
+
+RX STMP 151557.362923212 ns 
+ ppi 11632111 epl poll time 206 usec
+SYNC FOLLOW 4294953654  ts 151557.362907032 ns  
+
+updateOffset:  offset_from_master:            0 s          4 ns 
+CLOCK 56 63 of 346872 total      4 avg      2 min   -134 max    146
+DELAY REQ 17246  ts 151557.363321732 ns
+
+Allow Delay Request Q = 0, R = 3
+TX LOOP 151557.363412732 ns
+ppi 11632111 epl poll time 253 usec
+RECV DELAY REQ 17246  ts 151557.363428673 ns 
+
+slave_to_master_delay 15941 limit 64000
+DELAY 33 63 dreqs 115617 total  15951 avg  15932 min  15905 max  15967
+ENABLE CMD epl  ppi 11632112  9968 usec
+ 

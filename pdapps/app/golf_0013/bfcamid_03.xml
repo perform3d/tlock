@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="3">
+<proc class_id="0" tracking_level="0" version="0">
+	<m_label>3</m_label>
+	<m_idx>3</m_idx>
+	<m_cam_id>11</m_cam_id>
+	<m_app_idx>0</m_app_idx>
+	<m_master_flag>0</m_master_flag>
+	<m_sync_flag>1</m_sync_flag>
+</proc>
