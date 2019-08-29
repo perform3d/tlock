@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="11">
-<obj class_id="0" tracking_level="0" version="0">
+<obj class_id="0" tracking_level="0" version="1">
 	<m_name_str>golfsetup_3Ball</m_name_str>
 	<m_date_str>
 		<count>4</count>
@@ -10,6 +10,95 @@
 		<item>8/24/2015 2:57:56 PM</item>
 		<item>8/24/2015 2:57:56 PM</item>
 	</m_date_str>
+	<m_cal_tweek_flag>0</m_cal_tweek_flag>
+	<m_mobile_flag>0</m_mobile_flag>
+	<m_setup_response>0</m_setup_response>
+	<m_setup_adj_value>0.000000000e+000</m_setup_adj_value>
+	<m_rel_pos>
+		<count>3</count>
+		<item>
+			<count>3</count>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+		</item>
+		<item>
+			<count>3</count>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+		</item>
+		<item>
+			<count>3</count>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+		</item>
+	</m_rel_pos>
+	<m_lim_min>
+		<count>3</count>
+		<item>-60</item>
+		<item>-40</item>
+		<item>-40</item>
+	</m_lim_min>
+	<m_lim_max>
+		<count>3</count>
+		<item>80</item>
+		<item>40</item>
+		<item>40</item>
+	</m_lim_max>
+	<m_tweakMat>
+		<count>4</count>
+		<item>
+			<count>4</count>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+		</item>
+		<item>
+			<count>4</count>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+		</item>
+		<item>
+			<count>4</count>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+		</item>
+		<item>
+			<count>4</count>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+			<item>0.00000000000000000e+000</item>
+		</item>
+	</m_tweakMat>
+	<m_tweak_rotAngles>
+		<count>3</count>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+	</m_tweak_rotAngles>
+	<m_tweak_info>
+		<count>5</count>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+	</m_tweak_info>
+	<m_test_tweak>0</m_test_tweak>
+	<m_test_rot>
+		<count>3</count>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+		<item>0.00000000000000000e+000</item>
+	</m_test_rot>
 	<m_nominal_tee_feat>
 		<count>4</count>
 		<item>
@@ -22,8 +111,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>4.54000000000000000e+002</item>
-					<item>2.41000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -38,8 +127,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>4.19000000000000000e+002</item>
-					<item>1.47000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -57,8 +146,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>3.99000000000000000e+002</item>
-					<item>2.67000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -73,8 +162,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>4.19000000000000000e+002</item>
-					<item>1.47000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -92,8 +181,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>3.99000000000000000e+002</item>
-					<item>2.67000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -108,8 +197,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>4.19000000000000000e+002</item>
-					<item>1.47000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -127,8 +216,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>3.99000000000000000e+002</item>
-					<item>2.67000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -143,8 +232,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>4.19000000000000000e+002</item>
-					<item>1.47000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>

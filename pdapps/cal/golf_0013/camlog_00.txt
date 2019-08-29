@@ -1,14 +1,10 @@
 Log file for camera 0:
   12-to-10-bit Companding register [28] is OFF.
   VRef ADC Control register [44] is set to 0.
-  Initial Gain register [53] is set to 101.
-  Initial Black Level register [72] is set to 17.
-  Initial Exposure register [11] is set to 3.
-Loop 0, Algo step 2:
-Initial: White 131, Dark  18, Desired: White 125, Dark   5, Final: Gain 102, Black Level 17, Exposure 3
-Loop 1, Algo step 3:
-Initial: White 138, Dark  18, Desired: White 125, Dark   5, Final: Gain 102, Black Level -8, Exposure 3
-Loop 2, Algo step 3:
-Initial: White 127, Dark   8, Desired: White 125, Dark   5, Final: Gain 102, Black Level -13, Exposure 3
-Loop 3, Algo step 5:
-Initial: White 125, Dark   6, Desired: White 125, Dark   5, Final: Gain 102, Black Level -13, Exposure 3
+  Initial Gain register [53] is set to 111.
+  Initial Black Level register [72] is set to 3.
+  Initial Exposure register [11] is set to 5.
+Loop 0, Algo step 3:
+Initial: White 103, Dark  12, Desired: White 125, Dark   7, Final: Gain 111, Black Level -5, Exposure 5 Vref 0
+Loop 1, Algo step 5:
+Initial: White  97, Dark   7, Desired: White 125, Dark   7, Final: Gain 111, Black Level -5, Exposure 5 Vref 0

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="7">
+<boost_serialization signature="serialization::archive" version="11">
 <obj class_id="0" tracking_level="0" version="1">
 	<app_name>golfCal</app_name>
 	<app_idx>13</app_idx>
@@ -41,19 +41,19 @@
 		<item>0</item>
 		<item>0</item>
 	</camgain_cam_complete_flag>
-	<max_cal_err>3</max_cal_err>
-	<max_cal_warn>2</max_cal_warn>
-	<max_label_pixel_err>28</max_label_pixel_err>
-	<max_label_edge_err>20</max_label_edge_err>
+	<max_cal_err>3.00000000000000000e+000</max_cal_err>
+	<max_cal_warn>2.00000000000000000e+000</max_cal_warn>
+	<max_label_pixel_err>2.80000000000000000e+001</max_label_pixel_err>
+	<max_label_edge_err>2.00000000000000000e+001</max_label_edge_err>
 	<num_fix_rows>9</num_fix_rows>
 	<num_fix_cols>9</num_fix_cols>
-	<fix_row_dist>10.16</fix_row_dist>
-	<fix_row_offset>0</fix_row_offset>
-	<fix_col_dist>10.16</fix_col_dist>
-	<fix_col_offset>-40.640000000000001</fix_col_offset>
-	<fix_col0_adjust>-0.3175</fix_col0_adjust>
-	<SpareDblOne>0</SpareDblOne>
-	<SpareDblTwo>0</SpareDblTwo>
+	<fix_row_dist>1.01600000000000000e+001</fix_row_dist>
+	<fix_row_offset>0.00000000000000000e+000</fix_row_offset>
+	<fix_col_dist>1.01600000000000000e+001</fix_col_dist>
+	<fix_col_offset>-4.06400000000000010e+001</fix_col_offset>
+	<fix_col0_adjust>-3.17500000000000000e-001</fix_col0_adjust>
+	<SpareDblOne>0.00000000000000000e+000</SpareDblOne>
+	<SpareDblTwo>0.00000000000000000e+000</SpareDblTwo>
 	<SpareIntOne>0</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
