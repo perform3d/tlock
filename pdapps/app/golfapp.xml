@@ -27,7 +27,7 @@
 	<print_level>1</print_level>
 	<SpareDblOne>0</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
-	<SpareIntOne>0</SpareIntOne>
+	<SpareIntOne>12</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>

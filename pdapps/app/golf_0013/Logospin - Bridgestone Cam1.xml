@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="7">
+<m_pWorkflow class_id="0" class_name="CoreWorkflow" tracking_level="1" version="0" object_id="_0">
+	<IWorkflow class_id="1" tracking_level="0" version="0">
+		<m_name>Model Match</m_name>
+	</IWorkflow>
+	<m_flgTimer>1</m_flgTimer>
+	<m_Sequence class_id="2" tracking_level="0" version="0">
+		<count>6</count>
+		<item_version>0</item_version>
+		<item class_id="3" class_name="StepLoadModel" tracking_level="1" version="0" object_id="_1">
+			<IStep class_id="4" tracking_level="0" version="0">
+				<m_strName>StepLoadModel</m_strName>
+			</IStep>
+			<m_strModelName>LogoModel</m_strModelName>
+			<m_strInputName>RawObservations</m_strInputName>
+			<m_strModelFile>\home\tlock\pdapps\app\golf_0013\BridgestoneModel1.xml</m_strModelFile>
+			<m_flgLoadOnce>1</m_flgLoadOnce>
+			<m_dblPpSixThresh>0.1</m_dblPpixThresh>
+		</item>
+		<item class_id="5" class_name="StepPpixGlobExtract" tracking_level="1" version="0" object_id="_2">
+			<IStep>
+				<m_strName>StepPpixGlobExtract</m_strName>
+			</IStep>
+			<m_strInputName>RawObservations</m_strInputName>
+			<m_strGlobResultsName>GlobObservations</m_strGlobResultsName>
+			<m_dblBlurFactor>1.2</m_dblBlurFactor>
+			<m_dblMarginFactor>33</m_dblMarginFactor>
+			<m_iPixelRes>2</m_iPixelRes>
+		</item>
+		<item class_id="6" class_name="StepSpinEstFromTraj" tracking_level="1" version="0" object_id="_3">
+			<IStep>
+				<m_strName>StepSpinEstFromTraj</m_strName>
+			</IStep>
+			<m_strInputName>RawObservations</m_strInputName>
+			<m_strSpinEstName>SpinEstimate</m_strSpinEstName>
+		</item>
+		<item class_id="7" class_name="StepModelMatch" tracking_level="1" version="0" object_id="_4">
+			<IStep>
+				<m_strName>StepModelMatch</m_strName>
+			</IStep>
+			<m_strModelName>LogoModel</m_strModelName>
+			<m_strNameObservations>GlobObservations</m_strNameObservations>
+			<m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
+			<m_strNameSpinHint>SpinEstimate</m_strNameSpinHint>
+			<m_dblMinSizePct>0.50</m_dblMinSizePct>
+			<m_dblMaxSizePct>1.35</m_dblMaxSizePct>
+			<m_dblMinLengthPct>0.50</m_dblMinLengthPct>
+			<m_dblMaxLengthPct>1.35</m_dblMaxLengthPct>
+			<m_dblMinWidthPct>0.50</m_dblMinWidthPct>
+			<m_dblMaxWidthPct>1.35</m_dblMaxWidthPct>
+			<m_dblMaxFitError>0.12</m_dblMaxFitError>
+			<m_dblMinContourMerit>0.10</m_dblMinContourMerit>
+			<m_dblMinSpinConf>0.90</m_dblMinSpinConf>
+			<m_dblHintVariationPct>0.75</m_dblHintVariationPct>
+		</item>
+		<item class_id="8" class_name="StepAnswerBall" tracking_level="1" version="0" object_id="_5">
+			<IStep>
+				<m_strName>StepAnswerBall</m_strName>
+			</IStep>
+			<m_strInputName>RawObservations</m_strInputName>
+			<m_strSpinName>SpinRanges</m_strSpinName>
+			<m_strAnswerBallName>AnswerBall</m_strAnswerBallName>
+			<m_dblBlurFactor>1.2</m_dblBlurFactor>
+			<m_dblMarginFactor>33</m_dblMarginFactor>
+			<m_iPixelRes>2</m_iPixelRes>
+			<m_iFavoredCamera>1</m_iFavoredCamera>
+			<m_strModelFile></m_strModelFile>
+			<m_dblPpixThresh>0.5</m_dblPpixThresh>
+			<m_flgClearEachRun>1</m_flgClearEachRun>
+			<m_flgUseFixedSpin>0</m_flgUseFixedSpin>
+			<arrayFixedSpin>
+				<item>-6.2774385622041925e+066</item>
+				<item>-6.2774385622041925e+066</item>
+				<item>-6.2774385622041925e+066</item>
+				<item>-6.2774385622041925e+066</item>
+			</arrayFixedSpin>
+		</item>
+		<item class_id="9" class_name="StepCompareObs" tracking_level="1" version="0" object_id="_6">
+			<IStep>
+				<m_strName>StepCompareObs</m_strName>
+			</IStep>
+			<m_strObs1Name>LogoModel</m_strObs1Name>
+			<m_strObs2Name>AnswerBall</m_strObs2Name>
+			<m_strSpinRangeName>SpinRanges</m_strSpinRangeName>
+			<m_dblMinMerit>0.10</m_dblMinMerit>
+			<m_dblMinOverlap>0.75</m_dblMinOverlap>
+			<m_dblMaxFitErr>0.13</m_dblMaxFitErr>
+			<m_dblMinConfidence>0.749</m_dblMinConfidence>
+			<m_dblMinIntensityPct>0.55</m_dblMinIntensityPct>
+		</item>
+	</m_Sequence>
+</m_pWorkflow>
+</boost_serialization>
+
