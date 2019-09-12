@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="7">
-<obj class_id="0" tracking_level="0" version="1">
+<boost_serialization signature="serialization::archive" version="3">
+<obj class_id="0" tracking_level="0" version="0">
 	<app_name>golfCal</app_name>
 	<app_idx>13</app_idx>
 	<max_folder>100</max_folder>
@@ -61,5 +61,3 @@
 	<SpareBoolOne>0</SpareBoolOne>
 	<SpareBoolTwo>0</SpareBoolTwo>
 </obj>
-</boost_serialization>
-

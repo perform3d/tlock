@@ -5,9 +5,9 @@
 	<app_name>3Trak_Studio</app_name>
 	<app_idx>13</app_idx>
 	<max_physical_cams>2</max_physical_cams>
-	<num_hit_locations>4</num_hit_locations>
+	<num_hit_locations>7</num_hit_locations>
 	<m_improc_version>3</m_improc_version>
-	<m_cam_version>3</m_cam_version>
+	<m_cam_version>2</m_cam_version>
 	<m_traj_version>2</m_traj_version>
 	<m_spin_version>1</m_spin_version>
 	<m_ball_version>4</m_ball_version>
@@ -25,9 +25,9 @@
 	<debug_level>1</debug_level>
 	<print_enable_flag>1</print_enable_flag>
 	<print_level>1</print_level>
-	<SpareDblOne>50</SpareDblOne>
+	<SpareDblOne>0</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
-	<SpareIntOne>12</SpareIntOne>
+	<SpareIntOne>10</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>
