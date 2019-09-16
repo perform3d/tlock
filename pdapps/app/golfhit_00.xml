@@ -8,7 +8,7 @@
 	<m_full_shot_flag>0</m_full_shot_flag>
 	<m_launch_flag>1</m_launch_flag>
 	<m_putt_flag>0</m_putt_flag>
-	<m_club_flag>1</m_club_flag>
+	<m_club_flag>0</m_club_flag>
 	<m_center_hit_flag>1</m_center_hit_flag>
 	<m_R_flag>0</m_R_flag>
 	<m_L_flag>0</m_L_flag>
