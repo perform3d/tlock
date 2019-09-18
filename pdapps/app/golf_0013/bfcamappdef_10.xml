@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="11">
+<boost_serialization signature="serialization::archive" version="7">
 <proc class_id="0" tracking_level="0" version="0">
 	<m_label>8</m_label>
 	<m_idx>0</m_idx>
@@ -20,18 +20,18 @@
 			<exception_idx>0</exception_idx>
 			<im_height>360</im_height>
 			<im_width>752</im_width>
-			<im_alg>101</im_alg>
-			<row_start>60</row_start>
+			<im_alg>102</im_alg>
+			<row_start>120</row_start>
 			<max_event_cnt>999999999</max_event_cnt>
-			<ball_diam>30</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>800</max_pixel_dist>
 			<err_len>8</err_len>
 			<pre_count>25</pre_count>
 			<post_count>10</post_count>
 			<pos>
 				<count>2</count>
-				<item>558</item>
-				<item>234</item>
+				<item>493</item>
+				<item>242</item>
 			</pos>
 			<pos_err>800</pos_err>
 			<quality>175</quality>
@@ -53,15 +53,15 @@
 			<im_alg>200</im_alg>
 			<row_start>162</row_start>
 			<max_event_cnt>6</max_event_cnt>
-			<ball_diam>30</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>14</err_len>
 			<pre_count>3</pre_count>
 			<post_count>10</post_count>
 			<pos>
 				<count>2</count>
-				<item>558</item>
-				<item>234</item>
+				<item>493</item>
+				<item>242</item>
 			</pos>
 			<pos_err>100</pos_err>
 			<quality>140</quality>
@@ -83,7 +83,7 @@
 			<im_alg>200</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>4</max_event_cnt>
-			<ball_diam>34</ball_diam>
+			<ball_diam>36</ball_diam>
 			<max_pixel_dist>100</max_pixel_dist>
 			<err_len>6</err_len>
 			<pre_count>10</pre_count>
@@ -113,7 +113,7 @@
 			<im_alg>300</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>99999999</max_event_cnt>
-			<ball_diam>34</ball_diam>
+			<ball_diam>36</ball_diam>
 			<max_pixel_dist>800</max_pixel_dist>
 			<err_len>12</err_len>
 			<pre_count>2</pre_count>
@@ -143,7 +143,7 @@
 			<im_alg>300</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>18</max_event_cnt>
-			<ball_diam>30</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>12</err_len>
 			<pre_count>3</pre_count>
@@ -173,7 +173,7 @@
 			<im_alg>200</im_alg>
 			<row_start>150</row_start>
 			<max_event_cnt>4</max_event_cnt>
-			<ball_diam>30</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>10</err_len>
 			<pre_count>2</pre_count>
@@ -203,7 +203,7 @@
 			<im_alg>0</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>3</max_event_cnt>
-			<ball_diam>34</ball_diam>
+			<ball_diam>36</ball_diam>
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>12</err_len>
 			<pre_count>4</pre_count>

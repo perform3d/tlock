@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="11">
-<obj class_id="0" tracking_level="0" version="1">
+<boost_serialization signature="serialization::archive" version="7">
+<obj class_id="0" tracking_level="0" version="0">
 	<m_name_str>golfsetup_3Ball</m_name_str>
 	<m_date_str>
 		<count>4</count>
-		<item>9/11/2019 4:36:20 PM</item>
-		<item>9/11/2019 4:36:20 PM</item>
-		<item>9/11/2019 4:36:20 PM</item>
-		<item>9/11/2019 4:36:20 PM</item>
+		<item>9/4/2019 9:47:24 AM</item>
+		<item>9/4/2019 9:47:24 AM</item>
+		<item>9/4/2019 9:47:24 AM</item>
+		<item>9/4/2019 9:47:24 AM</item>
 	</m_date_str>
 	<m_nominal_tee_feat>
 		<count>4</count>
@@ -22,13 +22,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.58000000000000000e+002</item>
-					<item>2.34000000000000000e+002</item>
+					<item>493</item>
+					<item>242</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 			<item>
 				<m_valid_flag>0</m_valid_flag>
@@ -38,13 +38,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.66000000000000000e+002</item>
-					<item>1.90000000000000000e+002</item>
+					<item>515</item>
+					<item>244</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 		</item>
 		<item>
@@ -57,13 +57,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.58000000000000000e+002</item>
-					<item>2.34000000000000000e+002</item>
+					<item>493</item>
+					<item>242</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 			<item>
 				<m_valid_flag>0</m_valid_flag>
@@ -73,13 +73,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.66000000000000000e+002</item>
-					<item>1.90000000000000000e+002</item>
+					<item>515</item>
+					<item>244</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 		</item>
 		<item>
@@ -92,13 +92,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.58000000000000000e+002</item>
-					<item>2.34000000000000000e+002</item>
+					<item>493</item>
+					<item>242</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 			<item>
 				<m_valid_flag>0</m_valid_flag>
@@ -108,13 +108,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.66000000000000000e+002</item>
-					<item>1.90000000000000000e+002</item>
+					<item>515</item>
+					<item>244</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 		</item>
 		<item>
@@ -127,13 +127,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.58000000000000000e+002</item>
-					<item>2.34000000000000000e+002</item>
+					<item>493</item>
+					<item>242</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 			<item>
 				<m_valid_flag>0</m_valid_flag>
@@ -143,13 +143,13 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.66000000000000000e+002</item>
-					<item>1.90000000000000000e+002</item>
+					<item>515</item>
+					<item>244</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_area>0.00000000000000000e+000</m_area>
-				<m_ecc>0.00000000000000000e+000</m_ecc>
-				<m_cmpt>0.00000000000000000e+000</m_cmpt>
+				<m_wt>0</m_wt>
+				<m_area>0</m_area>
+				<m_ecc>0</m_ecc>
+				<m_cmpt>0</m_cmpt>
 			</item>
 		</item>
 	</m_nominal_tee_feat>
@@ -161,65 +161,31 @@
 				<count>4</count>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>5.58000000000000000e+002</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>2.34000000000000000e+002</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</item>
-			</m_mat>
-		</item>
-		<item>
-			<m_valid>0</m_valid>
-			<m_mat>
-				<count>4</count>
-				<item>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</item>
-				<item>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>5.66000000000000000e+002</item>
-				</item>
-				<item>
-					<count>4</count>
-					<item>1.90000000000000000e+002</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</item>
-				<item>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 			</m_mat>
 		</item>
@@ -229,31 +195,31 @@
 				<count>4</count>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>5.58000000000000000e+002</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>2.34000000000000000e+002</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 			</m_mat>
 		</item>
@@ -263,31 +229,65 @@
 				<count>4</count>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>5.66000000000000000e+002</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</item>
+			</m_mat>
+		</item>
+		<item>
+			<m_valid>0</m_valid>
+			<m_mat>
+				<count>4</count>
+				<item>
+					<count>4</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</item>
+				<item>
+					<count>4</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</item>
+				<item>
+					<count>4</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</item>
+				<item>
+					<count>4</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</item>
 			</m_mat>
 		</item>
@@ -296,482 +296,458 @@
 		<count>4</count>
 		<item>
 			<count>3</count>
-			<item class_id="3" tracking_level="1" version="2" object_id="_0">
+			<item class_id="3" tracking_level="0" version="0">
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>0</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos class_id="4" tracking_level="0" version="0">
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>1080901632</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_1">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>1</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>1.90000000000000000e+002</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>5.66000000000000000e+002</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_2">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>2</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
 		</item>
 		<item>
 			<count>3</count>
-			<item object_id="_3">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>0</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_4">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>1</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_5">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>2</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
 		</item>
 		<item>
 			<count>3</count>
-			<item object_id="_6">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>0</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_7">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>1</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_8">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>2</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
 		</item>
 		<item>
 			<count>3</count>
-			<item object_id="_9">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>0</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_10">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>1</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
-			<item object_id="_11">
+			<item>
 				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
 				<m_type>0</m_type>
 				<m_label>2</m_label>
 				<m_cam>0</m_cam>
 				<m_state>0</m_state>
 				<m_pos>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>0</m_f_wt>
 				<m_vel>
 					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>0</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
+				<m_vel>
+					<count>3</count>
+					<item>0</item>
+					<item>0</item>
+					<item>0</item>
+				</m_vel>
 			</item>
 		</item>
 	</m_ball_ft3d>
@@ -789,13 +765,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -805,13 +781,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -824,13 +800,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -840,13 +816,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -859,13 +835,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -875,13 +851,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 		</item>
@@ -897,13 +873,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -913,13 +889,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -932,13 +908,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -948,13 +924,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -967,13 +943,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -983,13 +959,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 		</item>
@@ -1005,13 +981,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -1021,13 +997,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -1040,13 +1016,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -1056,13 +1032,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -1075,13 +1051,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -1091,13 +1067,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 		</item>
@@ -1113,13 +1089,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -1129,13 +1105,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -1148,13 +1124,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -1164,13 +1140,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 			<item>
@@ -1183,13 +1159,13 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 				<item>
 					<m_valid_flag>0</m_valid_flag>
@@ -1199,546 +1175,19 @@
 					<m_state>0</m_state>
 					<m_pos>
 						<count>2</count>
-						<item>0.00000000000000000e+000</item>
-						<item>0.00000000000000000e+000</item>
+						<item>0</item>
+						<item>0</item>
 					</m_pos>
-					<m_wt>0.00000000000000000e+000</m_wt>
-					<m_area>0.00000000000000000e+000</m_area>
-					<m_ecc>0.00000000000000000e+000</m_ecc>
-					<m_cmpt>0.00000000000000000e+000</m_cmpt>
+					<m_wt>0</m_wt>
+					<m_area>0</m_area>
+					<m_ecc>0</m_ecc>
+					<m_cmpt>0</m_cmpt>
 				</item>
 			</item>
 		</item>
 	</m_ball_ft>
-	<m_template_ft3d>
-		<count>4</count>
-		<item>
-			<count>3</count>
-			<item object_id="_12">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_13">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_14">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-		</item>
-		<item>
-			<count>3</count>
-			<item object_id="_15">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_16">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_17">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-		</item>
-		<item>
-			<count>3</count>
-			<item object_id="_18">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_19">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_20">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-		</item>
-		<item>
-			<count>3</count>
-			<item object_id="_21">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_22">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-			<item object_id="_23">
-				<m_valid_flag>0</m_valid_flag>
-				<m_app_type>0</m_app_type>
-				<m_type>0</m_type>
-				<m_label>0</m_label>
-				<m_cam>0</m_cam>
-				<m_state>0</m_state>
-				<m_pos>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_pos>
-				<m_wt>0.00000000000000000e+000</m_wt>
-				<m_face>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
-				<m_vel>
-					<count>3</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
-				<m_epos>
-					<count>0</count>
-					<item_version>0</item_version>
-				</m_epos>
-				<m_quality>0</m_quality>
-				<m_live_count>0</m_live_count>
-				<m_cand_count>0</m_cand_count>
-				<m_dist_err>0.00000000000000000e+000</m_dist_err>
-				<m_timestamp>0.00000000000000000e+000</m_timestamp>
-			</item>
-		</item>
-	</m_template_ft3d>
-	<m_label_limit class_id="5" tracking_level="1" version="3" object_id="_24">
-		<m_alg>0</m_alg>
-		<m_rel_flag>0</m_rel_flag>
-		<m_2d_flag>0</m_2d_flag>
-		<m_delta_flag>0</m_delta_flag>
-		<m_percent_flag>0</m_percent_flag>
-		<m_int_err>4.000000000e+000</m_int_err>
-		<m_combine_dist>3.000000000e+001</m_combine_dist>
-		<m_max_dist>1.000000000e+002</m_max_dist>
-		<m_val>
-			<count>3</count>
-			<item>0.000000000e+000</item>
-			<item>0.000000000e+000</item>
-			<item>0.000000000e+000</item>
-		</m_val>
-		<m_delta>
-			<count>3</count>
-			<item>0.000000000e+000</item>
-			<item>0.000000000e+000</item>
-			<item>0.000000000e+000</item>
-		</m_delta>
-		<m_min_pos>
-			<count>3</count>
-			<item>-9.990000000e+002</item>
-			<item>-9.990000000e+002</item>
-			<item>-9.990000000e+002</item>
-		</m_min_pos>
-		<m_max_pos>
-			<count>3</count>
-			<item>9.990000000e+002</item>
-			<item>9.990000000e+002</item>
-			<item>9.990000000e+002</item>
-		</m_max_pos>
-		<m_max_est_dist>1.000000000e+002</m_max_est_dist>
-		<m_dist_err>2.000000000e+000</m_dist_err>
-		<m_total_dist_err>6.000000000e+000</m_total_dist_err>
-		<m_max_angle_err>3.000000119e-001</m_max_angle_err>
-		<m_max_dist_err>6.000000000e+000</m_max_dist_err>
-		<m_conf_int_err_wt>6.000000000e+001</m_conf_int_err_wt>
-		<m_conf_dist_err_wt>2.000000000e+001</m_conf_dist_err_wt>
-		<m_conf_angle_err_wt>2.000000000e+001</m_conf_angle_err_wt>
-		<m_conf_abs_dist_err_wt>2.000000000e+001</m_conf_abs_dist_err_wt>
-		<m_conf_alt_wt>0.000000000e+000</m_conf_alt_wt>
-	</m_label_limit>
-	<SpareDblOne>0.00000000000000000e+000</SpareDblOne>
-	<SpareDblTwo>0.00000000000000000e+000</SpareDblTwo>
+	<SpareDblOne>0</SpareDblOne>
+	<SpareDblTwo>0</SpareDblTwo>
 	<SpareIntOne>0</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne></SpareStringOne>

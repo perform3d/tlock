@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="11">
+<boost_serialization signature="serialization::archive" version="7">
 <proc class_id="0" tracking_level="0" version="0">
 	<m_label>1</m_label>
 	<m_idx>0</m_idx>
@@ -17,12 +17,12 @@
 		<item>
 			<count>2</count>
 			<item>72</item>
-			<item>10</item>
+			<item>24</item>
 		</item>
 		<item>
 			<count>2</count>
 			<item>11</item>
-			<item>6</item>
+			<item>3</item>
 		</item>
 		<item>
 			<count>2</count>

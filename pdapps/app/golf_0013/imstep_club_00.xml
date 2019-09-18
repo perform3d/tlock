@@ -51,14 +51,14 @@
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>15</m_ball_diam>
+		<m_ball_diam>10</m_ball_diam>
 		<m_err_len>5</m_err_len>
 		<m_x_min_len>5</m_x_min_len>
 		<m_x_max_len>15</m_x_max_len>
 		<m_y_min_len>5</m_y_min_len>
-		<m_y_max_len>18</m_y_max_len>
+		<m_y_max_len>15</m_y_max_len>
 		<m_min_area>35</m_min_area>
-		<m_max_area>500</m_max_area>
+		<m_max_area>240</m_max_area>
 		<m_x_min>0</m_x_min>
 		<m_y_min>0</m_y_min>
 		<m_x_max>752</m_x_max>
@@ -94,7 +94,7 @@
 		<m_adapt_percent>0</m_adapt_percent>
 		<m_spare_bool1>0</m_spare_bool1>
 		<m_spare_bool2>0</m_spare_bool2>
-		<m_spare_int1>230</m_spare_int1>
+		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
 		<m_spare_float1>0</m_spare_float1>
 		<m_spare_float2>0</m_spare_float2>
@@ -182,12 +182,12 @@
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>15</m_ball_diam>
+		<m_ball_diam>14</m_ball_diam>
 		<m_err_len>5</m_err_len>
-		<m_x_min_len>4</m_x_min_len>
-		<m_x_max_len>14</m_x_max_len>
-		<m_y_min_len>6</m_y_min_len>
-		<m_y_max_len>21</m_y_max_len>
+		<m_x_min_len>5</m_x_min_len>
+		<m_x_max_len>15</m_x_max_len>
+		<m_y_min_len>5</m_y_min_len>
+		<m_y_max_len>15</m_y_max_len>
 		<m_min_area>40</m_min_area>
 		<m_max_area>240</m_max_area>
 		<m_x_min>0</m_x_min>

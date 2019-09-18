@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="13">
+<boost_serialization signature="serialization::archive" version="7">
 <proc class_id="0" tracking_level="0" version="1">
 	<m_name>imstep_ball</m_name>
 	<m_cam>12</m_cam>
@@ -10,8 +10,8 @@
 	<m_spare_bool2>0</m_spare_bool2>
 	<m_spare_int1>0</m_spare_int1>
 	<m_spare_int2>0</m_spare_int2>
-	<m_spare_float1>0.000000000e+000</m_spare_float1>
-	<m_spare_float2>0.000000000e+000</m_spare_float2>
+	<m_spare_float1>0</m_spare_float1>
+	<m_spare_float2>0</m_spare_float2>
 	<m_morph_aoi class_id="1" tracking_level="0" version="1">
 		<m_type>255</m_type>
 		<m_x>0</m_x>
@@ -35,8 +35,8 @@
 		<m_spare_bool2>0</m_spare_bool2>
 		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
-		<m_spare_float1>0.000000000e+000</m_spare_float1>
-		<m_spare_float2>0.000000000e+000</m_spare_float2>
+		<m_spare_float1>0</m_spare_float1>
+		<m_spare_float2>0</m_spare_float2>
 	</m_morph_parm>
 	<m_blob_aoi>
 		<m_type>255</m_type>
@@ -51,7 +51,7 @@
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>-842150451</m_ball_diam>
+		<m_ball_diam>0</m_ball_diam>
 		<m_err_len>5</m_err_len>
 		<m_x_min_len>31</m_x_min_len>
 		<m_x_max_len>41</m_x_max_len>
@@ -60,24 +60,24 @@
 		<m_avg_area>972</m_avg_area>
 		<m_min_area>0</m_min_area>
 		<m_max_area>1200</m_max_area>
-		<m_avg_radius>1.900000000e+001</m_avg_radius>
-		<m_min_radius>1.400000000e+001</m_min_radius>
-		<m_max_radius>3.000000000e+001</m_max_radius>
+		<m_avg_radius>19</m_avg_radius>
+		<m_min_radius>14</m_min_radius>
+		<m_max_radius>30</m_max_radius>
 		<m_max_percent_cropped>60</m_max_percent_cropped>
 		<m_max_percent_gap>60</m_max_percent_gap>
 		<m_min_percent_valid_pts>0</m_min_percent_valid_pts>
-		<m_min_pre_roundness>6.000000238e-001</m_min_pre_roundness>
-		<m_min_symmetry>5.000000000e-001</m_min_symmetry>
+		<m_min_pre_roundness>0.60000002</m_min_pre_roundness>
+		<m_min_symmetry>0.5</m_min_symmetry>
 		<m_x_min>0</m_x_min>
 		<m_y_min>0</m_y_min>
 		<m_x_max>744</m_x_max>
 		<m_y_max>479</m_y_max>
-		<m_ecc_min>0.000000000e+000</m_ecc_min>
-		<m_ecc_max>2.000000000e+000</m_ecc_max>
-		<m_cmpt_min>0.000000000e+000</m_cmpt_min>
-		<m_cmpt_max>2.000000000e+000</m_cmpt_max>
-		<m_min_ang>0.000000000e+000</m_min_ang>
-		<m_max_ang>3.600000000e+002</m_max_ang>
+		<m_ecc_min>0</m_ecc_min>
+		<m_ecc_max>2</m_ecc_max>
+		<m_cmpt_min>0</m_cmpt_min>
+		<m_cmpt_max>2</m_cmpt_max>
+		<m_min_ang>0</m_min_ang>
+		<m_max_ang>360</m_max_ang>
 		<m_percent_thresh>50</m_percent_thresh>
 		<m_quality_thresh>50</m_quality_thresh>
 		<m_area_wt>0</m_area_wt>
@@ -91,8 +91,8 @@
 		<m_spare_bool2>0</m_spare_bool2>
 		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
-		<m_spare_float1>0.000000000e+000</m_spare_float1>
-		<m_spare_float2>0.000000000e+000</m_spare_float2>
+		<m_spare_float1>0</m_spare_float1>
+		<m_spare_float2>0</m_spare_float2>
 	</m_blob_filter>
 	<m_blob_parm class_id="4" tracking_level="0" version="1">
 		<m_name>dynamic</m_name>
@@ -112,8 +112,8 @@
 		<m_spare_bool2>0</m_spare_bool2>
 		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
-		<m_spare_float1>0.000000000e+000</m_spare_float1>
-		<m_spare_float2>0.000000000e+000</m_spare_float2>
+		<m_spare_float1>0</m_spare_float1>
+		<m_spare_float2>0</m_spare_float2>
 	</m_blob_parm>
 	<m_hiball_aoi>
 		<m_type>255</m_type>
@@ -127,26 +127,26 @@
 	<m_hiball_parm class_id="5" tracking_level="0" version="1">
 		<m_name>hiaccballfind</m_name>
 		<m_alg>0</m_alg>
-		<m_min_thresh>1.000000000e+000</m_min_thresh>
-		<m_max_thresh>2.000000000e+000</m_max_thresh>
-		<m_min_quality_wt>4.000000060e-001</m_min_quality_wt>
-		<m_cand_min_wt>1.000000015e-001</m_cand_min_wt>
-		<m_thresh_mult>5.000000000e-001</m_thresh_mult>
-		<m_ball_radius_adjust_factor>1.000000000e+000</m_ball_radius_adjust_factor>
-		<m_max_init_sym_err>2.000000000e+001</m_max_init_sym_err>
-		<m_max_final_sym_err>7.000000000e+000</m_max_final_sym_err>
+		<m_min_thresh>1</m_min_thresh>
+		<m_max_thresh>2</m_max_thresh>
+		<m_min_quality_wt>0.40000001</m_min_quality_wt>
+		<m_cand_min_wt>0.1</m_cand_min_wt>
+		<m_thresh_mult>0.5</m_thresh_mult>
+		<m_ball_radius_adjust_factor>1</m_ball_radius_adjust_factor>
+		<m_max_init_sym_err>20</m_max_init_sym_err>
+		<m_max_final_sym_err>7</m_max_final_sym_err>
 		<m_spare_bool1>0</m_spare_bool1>
 		<m_spare_bool2>0</m_spare_bool2>
 		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
-		<m_spare_float1>0.000000000e+000</m_spare_float1>
-		<m_spare_float2>0.000000000e+000</m_spare_float2>
+		<m_spare_float1>0</m_spare_float1>
+		<m_spare_float2>0</m_spare_float2>
 	</m_hiball_parm>
 	<m_hiball_filter>
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>-842150451</m_ball_diam>
+		<m_ball_diam>0</m_ball_diam>
 		<m_err_len>5</m_err_len>
 		<m_x_min_len>31</m_x_min_len>
 		<m_x_max_len>41</m_x_max_len>
@@ -155,24 +155,24 @@
 		<m_avg_area>972</m_avg_area>
 		<m_min_area>0</m_min_area>
 		<m_max_area>1200</m_max_area>
-		<m_avg_radius>1.900000000e+001</m_avg_radius>
-		<m_min_radius>1.400000000e+001</m_min_radius>
-		<m_max_radius>3.000000000e+001</m_max_radius>
+		<m_avg_radius>19</m_avg_radius>
+		<m_min_radius>14</m_min_radius>
+		<m_max_radius>30</m_max_radius>
 		<m_max_percent_cropped>60</m_max_percent_cropped>
 		<m_max_percent_gap>60</m_max_percent_gap>
 		<m_min_percent_valid_pts>0</m_min_percent_valid_pts>
-		<m_min_pre_roundness>6.000000238e-001</m_min_pre_roundness>
-		<m_min_symmetry>5.000000000e-001</m_min_symmetry>
+		<m_min_pre_roundness>0.60000002</m_min_pre_roundness>
+		<m_min_symmetry>0.5</m_min_symmetry>
 		<m_x_min>0</m_x_min>
 		<m_y_min>0</m_y_min>
 		<m_x_max>744</m_x_max>
 		<m_y_max>479</m_y_max>
-		<m_ecc_min>0.000000000e+000</m_ecc_min>
-		<m_ecc_max>2.000000000e+000</m_ecc_max>
-		<m_cmpt_min>0.000000000e+000</m_cmpt_min>
-		<m_cmpt_max>2.000000000e+000</m_cmpt_max>
-		<m_min_ang>0.000000000e+000</m_min_ang>
-		<m_max_ang>3.600000000e+002</m_max_ang>
+		<m_ecc_min>0</m_ecc_min>
+		<m_ecc_max>2</m_ecc_max>
+		<m_cmpt_min>0</m_cmpt_min>
+		<m_cmpt_max>2</m_cmpt_max>
+		<m_min_ang>0</m_min_ang>
+		<m_max_ang>360</m_max_ang>
 		<m_percent_thresh>50</m_percent_thresh>
 		<m_quality_thresh>50</m_quality_thresh>
 		<m_area_wt>0</m_area_wt>
@@ -186,8 +186,8 @@
 		<m_spare_bool2>0</m_spare_bool2>
 		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
-		<m_spare_float1>0.000000000e+000</m_spare_float1>
-		<m_spare_float2>0.000000000e+000</m_spare_float2>
+		<m_spare_float1>0</m_spare_float1>
+		<m_spare_float2>0</m_spare_float2>
 	</m_hiball_filter>
 	<m_hiball_blob>
 		<m_name>dynamic</m_name>
@@ -207,14 +207,14 @@
 		<m_spare_bool2>0</m_spare_bool2>
 		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
-		<m_spare_float1>0.000000000e+000</m_spare_float1>
-		<m_spare_float2>0.000000000e+000</m_spare_float2>
+		<m_spare_float1>0</m_spare_float1>
+		<m_spare_float2>0</m_spare_float2>
 	</m_hiball_blob>
 	<m_post_filter>
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>-842150451</m_ball_diam>
+		<m_ball_diam>0</m_ball_diam>
 		<m_err_len>5</m_err_len>
 		<m_x_min_len>31</m_x_min_len>
 		<m_x_max_len>41</m_x_max_len>
@@ -223,24 +223,24 @@
 		<m_avg_area>972</m_avg_area>
 		<m_min_area>0</m_min_area>
 		<m_max_area>1200</m_max_area>
-		<m_avg_radius>1.900000000e+001</m_avg_radius>
-		<m_min_radius>1.400000000e+001</m_min_radius>
-		<m_max_radius>3.000000000e+001</m_max_radius>
+		<m_avg_radius>19</m_avg_radius>
+		<m_min_radius>14</m_min_radius>
+		<m_max_radius>30</m_max_radius>
 		<m_max_percent_cropped>60</m_max_percent_cropped>
 		<m_max_percent_gap>60</m_max_percent_gap>
 		<m_min_percent_valid_pts>0</m_min_percent_valid_pts>
-		<m_min_pre_roundness>6.000000238e-001</m_min_pre_roundness>
-		<m_min_symmetry>5.000000000e-001</m_min_symmetry>
+		<m_min_pre_roundness>0.60000002</m_min_pre_roundness>
+		<m_min_symmetry>0.5</m_min_symmetry>
 		<m_x_min>0</m_x_min>
 		<m_y_min>0</m_y_min>
 		<m_x_max>744</m_x_max>
 		<m_y_max>479</m_y_max>
-		<m_ecc_min>0.000000000e+000</m_ecc_min>
-		<m_ecc_max>2.000000000e+000</m_ecc_max>
-		<m_cmpt_min>0.000000000e+000</m_cmpt_min>
-		<m_cmpt_max>2.000000000e+000</m_cmpt_max>
-		<m_min_ang>0.000000000e+000</m_min_ang>
-		<m_max_ang>3.600000000e+002</m_max_ang>
+		<m_ecc_min>0</m_ecc_min>
+		<m_ecc_max>2</m_ecc_max>
+		<m_cmpt_min>0</m_cmpt_min>
+		<m_cmpt_max>2</m_cmpt_max>
+		<m_min_ang>0</m_min_ang>
+		<m_max_ang>360</m_max_ang>
 		<m_percent_thresh>50</m_percent_thresh>
 		<m_quality_thresh>50</m_quality_thresh>
 		<m_area_wt>0</m_area_wt>
@@ -254,8 +254,8 @@
 		<m_spare_bool2>0</m_spare_bool2>
 		<m_spare_int1>0</m_spare_int1>
 		<m_spare_int2>0</m_spare_int2>
-		<m_spare_float1>0.000000000e+000</m_spare_float1>
-		<m_spare_float2>0.000000000e+000</m_spare_float2>
+		<m_spare_float1>0</m_spare_float1>
+		<m_spare_float2>0</m_spare_float2>
 	</m_post_filter>
 </proc>
 </boost_serialization>

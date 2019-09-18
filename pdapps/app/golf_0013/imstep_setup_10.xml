@@ -14,10 +14,10 @@
 	<m_spare_float2>0</m_spare_float2>
 	<m_morph_aoi class_id="1" tracking_level="0" version="1">
 		<m_type>255</m_type>
-		<m_x>500</m_x>
-		<m_y>150</m_y>
-		<m_width>200</m_width>
-		<m_height>150</m_height>
+		<m_x>0</m_x>
+		<m_y>0</m_y>
+		<m_width>752</m_width>
+		<m_height>480</m_height>
 		<m_val>0</m_val>
 		<m_image_valid>0</m_image_valid>
 	</m_morph_aoi>

@@ -5,7 +5,7 @@
 	<DesiredBallWhite>90</DesiredBallWhite>
 	<DesiredBallDark>2</DesiredBallDark>
 	<DesiredTargetWhite>120</DesiredTargetWhite>
-	<DesiredTargetDark>6</DesiredTargetDark>
+	<DesiredTargetDark>5</DesiredTargetDark>
 	<Ball_x0>100</Ball_x0>
 	<Ball_y0>100</Ball_y0>
 	<Ball_x1>500</Ball_x1>
@@ -20,6 +20,6 @@
 	<TargetPercentBack>0.10000000000000001</TargetPercentBack>
 	<SpareDblOne>160</SpareDblOne>
 	<SpareDblTwo>65</SpareDblTwo>
-	<SpareIntOne>12</SpareIntOne>
-	<SpareIntTwo>3</SpareIntTwo>
+	<SpareIntOne>20</SpareIntOne>
+	<SpareIntTwo>1</SpareIntTwo>
 </obj>

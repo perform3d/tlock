@@ -1,24 +1,26 @@
 Log file for camera 1:
   12-to-10-bit Companding register [28] is OFF.
   VRef ADC Control register [44] is set to 0.
-  Initial Gain register [53] is set to 109.
-  Initial Black Level register [72] is set to 24.
+  Initial Gain register [53] is set to 107.
+  Initial Black Level register [72] is set to 13.
   Initial Exposure register [11] is set to 3.
-Loop 0, Algo step 2:
-Initial: White 197, Dark  16, Desired: White 125, Dark   5, Final: Gain 99, Black Level 24, Exposure 3
-Loop 1, Algo step 3:
-Initial: White 135, Dark  19, Desired: White 125, Dark   5, Final: Gain 99, Black Level -6, Exposure 3
+Loop 0, Algo step 3:
+Initial: White 120, Dark   9, Desired: White 120, Dark   5, Final: Gain 107, Black Level 7, Exposure 3
+Loop 1, Algo step 4:
+Initial: White 124, Dark   6, Desired: White 120, Dark   5, Final: Gain 106, Black Level 7, Exposure 3
 Loop 2, Algo step 4:
-Initial: White 127, Dark   8, Desired: White 125, Dark   5, Final: Gain 99, Black Level -7, Exposure 3
+Initial: White  96, Dark   5, Desired: White 120, Dark   5, Final: Gain 107, Black Level 7, Exposure 3
 Loop 3, Algo step 4:
-Initial: White  99, Dark   4, Desired: White 125, Dark   5, Final: Gain 100, Black Level -7, Exposure 3
+Initial: White 105, Dark   5, Desired: White 120, Dark   5, Final: Gain 108, Black Level 7, Exposure 3
 Loop 4, Algo step 4:
-Initial: White 110, Dark   5, Desired: White 125, Dark   5, Final: Gain 101, Black Level -7, Exposure 3
+Initial: White 116, Dark   5, Desired: White 120, Dark   5, Final: Gain 109, Black Level 7, Exposure 3
 Loop 5, Algo step 4:
-Initial: White 121, Dark   5, Desired: White 125, Dark   5, Final: Gain 102, Black Level -7, Exposure 3
+Initial: White 127, Dark   5, Desired: White 120, Dark   5, Final: Gain 108, Black Level 7, Exposure 3
 Loop 6, Algo step 4:
-Initial: White 131, Dark   5, Desired: White 125, Dark   5, Final: Gain 101, Black Level -7, Exposure 3
+Initial: White 130, Dark   6, Desired: White 120, Dark   5, Final: Gain 107, Black Level 7, Exposure 3
 Loop 7, Algo step 4:
-Initial: White 130, Dark   6, Desired: White 125, Dark   5, Final: Gain 100, Black Level -7, Exposure 3
-Loop 8, Algo step 5:
-Initial: White 128, Dark   7, Desired: White 125, Dark   5, Final: Gain 100, Black Level -7, Exposure 3
+Initial: White 100, Dark   4, Desired: White 120, Dark   5, Final: Gain 108, Black Level 7, Exposure 3
+Loop 8, Algo step 4:
+Initial: White 110, Dark   4, Desired: White 120, Dark   5, Final: Gain 109, Black Level 7, Exposure 3
+Loop 9, Algo step 5:
+Initial: White 121, Dark   4, Desired: White 120, Dark   5, Final: Gain 109, Black Level 7, Exposure 3
