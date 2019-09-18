@@ -2,9 +2,9 @@
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="3">
 <obj class_id="0" tracking_level="1" version="0" object_id="_0">
-	<DesiredBallWhite>125</DesiredBallWhite>
-	<DesiredBallDark>5</DesiredBallDark>
-	<DesiredTargetWhite>125</DesiredTargetWhite>
+	<DesiredBallWhite>90</DesiredBallWhite>
+	<DesiredBallDark>2</DesiredBallDark>
+	<DesiredTargetWhite>120</DesiredTargetWhite>
 	<DesiredTargetDark>5</DesiredTargetDark>
 	<Ball_x0>100</Ball_x0>
 	<Ball_y0>100</Ball_y0>
@@ -19,7 +19,7 @@
 	<TargetPercent>0.10000000000000001</TargetPercent>
 	<TargetPercentBack>0.10000000000000001</TargetPercentBack>
 	<SpareDblOne>160</SpareDblOne>
-	<SpareDblTwo>80</SpareDblTwo>
+	<SpareDblTwo>65</SpareDblTwo>
 	<SpareIntOne>20</SpareIntOne>
 	<SpareIntTwo>1</SpareIntTwo>
 </obj>

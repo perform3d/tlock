@@ -76,7 +76,7 @@
 	<m_debug_level>1</m_debug_level>
 	<SpareDblOne>0</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
-	<SpareIntOne>1</SpareIntOne>
+	<SpareIntOne>0</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>
