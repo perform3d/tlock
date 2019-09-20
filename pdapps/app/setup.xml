@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="13">
+<boost_serialization signature="serialization::archive" version="11">
 <obj class_id="0" tracking_level="0" version="1">
 	<m_name_str>golfsetup_3Ball</m_name_str>
 	<m_date_str>
 		<count>4</count>
-		<item>8/28/2019 9:02:04 AM</item>
-		<item>8/28/2019 9:02:04 AM</item>
-		<item>8/28/2019 9:02:04 AM</item>
-		<item>8/28/2019 9:02:04 AM</item>
+		<item>9/11/2019 4:36:20 PM</item>
+		<item>9/11/2019 4:36:20 PM</item>
+		<item>9/11/2019 4:36:20 PM</item>
+		<item>9/11/2019 4:36:20 PM</item>
 	</m_date_str>
 	<m_nominal_tee_feat>
 		<count>4</count>
@@ -22,8 +22,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.58000000000000000e+002</item>
+					<item>2.34000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -38,8 +38,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.66000000000000000e+002</item>
+					<item>1.90000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -57,8 +57,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.58000000000000000e+002</item>
+					<item>2.34000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -73,8 +73,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.66000000000000000e+002</item>
+					<item>1.90000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -92,8 +92,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.58000000000000000e+002</item>
+					<item>2.34000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -108,8 +108,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.66000000000000000e+002</item>
+					<item>1.90000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -127,8 +127,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.58000000000000000e+002</item>
+					<item>2.34000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -143,8 +143,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.66000000000000000e+002</item>
+					<item>1.90000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
@@ -164,45 +164,11 @@
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.58000000000000000e+002</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</item>
-				<item>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</item>
-				<item>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</item>
-			</m_mat>
-		</item>
-		<item>
-			<m_valid>0</m_valid>
-			<m_mat>
-				<count>4</count>
-				<item>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
-				</item>
-				<item>
-					<count>4</count>
-					<item>0.00000000000000000e+000</item>
+					<item>2.34000000000000000e+002</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
@@ -239,11 +205,11 @@
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
-					<item>0.00000000000000000e+000</item>
+					<item>5.66000000000000000e+002</item>
 				</item>
 				<item>
 					<count>4</count>
-					<item>0.00000000000000000e+000</item>
+					<item>1.90000000000000000e+002</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
@@ -280,6 +246,26 @@
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
+					<item>5.58000000000000000e+002</item>
+				</item>
+				<item>
+					<count>4</count>
+					<item>2.34000000000000000e+002</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+				</item>
+			</m_mat>
+		</item>
+		<item>
+			<m_valid>0</m_valid>
+			<m_mat>
+				<count>4</count>
+				<item>
+					<count>4</count>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 				</item>
 				<item>
@@ -288,6 +274,20 @@
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
+				</item>
+				<item>
+					<count>4</count>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+				</item>
+				<item>
+					<count>4</count>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+					<item>0.00000000000000000e+000</item>
+					<item>5.66000000000000000e+002</item>
 				</item>
 			</m_mat>
 		</item>
@@ -329,7 +329,7 @@
 					<count>0</count>
 					<item_version>0</item_version>
 				</m_epos>
-				<m_quality>0</m_quality>
+				<m_quality>1080901632</m_quality>
 				<m_live_count>0</m_live_count>
 				<m_cand_count>0</m_cand_count>
 				<m_dist_err>0.00000000000000000e+000</m_dist_err>
@@ -356,14 +356,14 @@
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 				</m_face>
-				<m_f_wt>0.00000000000000000e+000</m_f_wt>
+				<m_f_wt>1.90000000000000000e+002</m_f_wt>
 				<m_vel>
 					<count>3</count>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 					<item>0.00000000000000000e+000</item>
 				</m_vel>
-				<m_v_wt>0.00000000000000000e+000</m_v_wt>
+				<m_v_wt>5.66000000000000000e+002</m_v_wt>
 				<m_epos>
 					<count>0</count>
 					<item_version>0</item_version>

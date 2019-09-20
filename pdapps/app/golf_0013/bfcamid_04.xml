@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="3">
-<proc class_id="0" tracking_level="0" version="0">
-	<m_label>4</m_label>
-	<m_idx>4</m_idx>
-	<m_cam_id>10</m_cam_id>
-	<m_app_idx>0</m_app_idx>
+<boost_serialization signature="serialization::archive" version="11">
+<proc class_id="0" tracking_level="0" version="1">
+	<m_label>0</m_label>
+	<m_idx>0</m_idx>
+	<m_cam_id>0</m_cam_id>
+	<m_app_idx>2</m_app_idx>
 	<m_master_flag>1</m_master_flag>
 	<m_sync_flag>1</m_sync_flag>
 </proc>
+</boost_serialization>
+

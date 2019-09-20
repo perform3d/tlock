@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="3">
-<obj class_id="0" tracking_level="0" version="2">
+<obj class_id="0" tracking_level="0" version="4">
 	<m_name>Club_Hit_Center</m_name>
 	<m_label>0</m_label>
 	<m_type>0</m_type>
@@ -76,10 +76,12 @@
 	<m_debug_level>1</m_debug_level>
 	<SpareDblOne>0</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
-	<SpareIntOne>0</SpareIntOne>
+	<SpareIntOne>2</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>
 	<SpareBoolOne>1</SpareBoolOne>
 	<SpareBoolTwo>0</SpareBoolTwo>
+	<m_strDashModelFile>dashmoddual_standard.txt</m_strDashModelFile>
+	<m_strLogospinWorkflow>\home\tlock\pdapps\app\golf_0013\Logospin - Consecutive Logo.xml</m_strLogospinWorkflow>
 </obj>

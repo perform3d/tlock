@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="7">
+<boost_serialization signature="serialization::archive" version="11">
 <proc class_id="0" tracking_level="0" version="0">
 	<m_label>8</m_label>
 	<m_idx>0</m_idx>
@@ -8,7 +8,7 @@
 	<m_comm_num_cams>2</m_comm_num_cams>
 	<m_track_dir>1004</m_track_dir>
 	<m_max_gap>3</m_max_gap>
-	<m_thresh>30</m_thresh>
+	<m_thresh>25</m_thresh>
 	<m_num_states>7</m_num_states>
 	<m_state>
 		<count>10</count>
@@ -20,18 +20,18 @@
 			<exception_idx>0</exception_idx>
 			<im_height>360</im_height>
 			<im_width>752</im_width>
-			<im_alg>102</im_alg>
-			<row_start>120</row_start>
+			<im_alg>101</im_alg>
+			<row_start>60</row_start>
 			<max_event_cnt>999999999</max_event_cnt>
-			<ball_diam>32</ball_diam>
-			<max_pixel_dist>400</max_pixel_dist>
+			<ball_diam>34</ball_diam>
+			<max_pixel_dist>800</max_pixel_dist>
 			<err_len>12</err_len>
 			<pre_count>25</pre_count>
 			<post_count>10</post_count>
 			<pos>
 				<count>2</count>
-				<item>518</item>
-				<item>241</item>
+				<item>399</item>
+				<item>267</item>
 			</pos>
 			<pos_err>400</pos_err>
 			<quality>175</quality>
@@ -53,15 +53,15 @@
 			<im_alg>200</im_alg>
 			<row_start>162</row_start>
 			<max_event_cnt>6</max_event_cnt>
-			<ball_diam>32</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>80</max_pixel_dist>
 			<err_len>14</err_len>
 			<pre_count>3</pre_count>
 			<post_count>10</post_count>
 			<pos>
 				<count>2</count>
-				<item>518</item>
-				<item>241</item>
+				<item>399</item>
+				<item>267</item>
 			</pos>
 			<pos_err>100</pos_err>
 			<quality>140</quality>
@@ -84,8 +84,8 @@
 			<row_start>0</row_start>
 			<max_event_cnt>99999999</max_event_cnt>
 			<ball_diam>14</ball_diam>
-			<max_pixel_dist>200</max_pixel_dist>
-			<err_len>8</err_len>
+			<max_pixel_dist>300</max_pixel_dist>
+			<err_len>9</err_len>
 			<pre_count>2</pre_count>
 			<post_count>20</post_count>
 			<pos>
@@ -94,7 +94,7 @@
 				<item>240</item>
 			</pos>
 			<pos_err>6</pos_err>
-			<quality>300</quality>
+			<quality>350</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>0</int_spare2>
 			<int_spare3>0</int_spare3>
@@ -115,7 +115,7 @@
 			<max_event_cnt>36</max_event_cnt>
 			<ball_diam>14</ball_diam>
 			<max_pixel_dist>300</max_pixel_dist>
-			<err_len>8</err_len>
+			<err_len>9</err_len>
 			<pre_count>20</pre_count>
 			<post_count>5</post_count>
 			<pos>
@@ -124,7 +124,7 @@
 				<item>240</item>
 			</pos>
 			<pos_err>70</pos_err>
-			<quality>300</quality>
+			<quality>350</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>3</int_spare2>
 			<int_spare3>0</int_spare3>
@@ -143,7 +143,7 @@
 			<im_alg>305</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>18</max_event_cnt>
-			<ball_diam>32</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>250</max_pixel_dist>
 			<err_len>16</err_len>
 			<pre_count>3</pre_count>
@@ -173,7 +173,7 @@
 			<im_alg>200</im_alg>
 			<row_start>150</row_start>
 			<max_event_cnt>4</max_event_cnt>
-			<ball_diam>32</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>80</max_pixel_dist>
 			<err_len>10</err_len>
 			<pre_count>2</pre_count>
@@ -203,7 +203,7 @@
 			<im_alg>0</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>3</max_event_cnt>
-			<ball_diam>36</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>12</err_len>
 			<pre_count>8</pre_count>
