@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="7">
+<m_pWorkflow class_id="0" class_name="CoreWorkflow" tracking_level="1" version="0" object_id="_0">
+	<IWorkflow class_id="1" tracking_level="0" version="0">
+		<m_name>CONSECUTIVE LOGO</m_name>
+	</IWorkflow>
+
+	<m_flgTimer>1</m_flgTimer>
+
+	<m_Sequence class_id="2" tracking_level="0" version="0">
+		<count>4</count>
+		<item_version>0</item_version>
+
+		<item class_id="3" class_name="StepPpixGlobExtract" tracking_level="1" version="0" object_id="_1">
+			<IStep class_id="4" tracking_level="0" version="0">
+				<m_strName>StepPpixGlobExtract</m_strName>
+			</IStep>
+			<m_strInputName>RawObservations</m_strInputName>
+			<m_strGlobResultsName>GlobObservations</m_strGlobResultsName>
+			<m_dblBlurFactor>1.2</m_dblBlurFactor>
+			<m_dblMarginFactor>33</m_dblMarginFactor>
+			<m_iPixelRes>2</m_iPixelRes>
+		</item>
+
+		<item class_id="5" class_name="StepPickGlobPairs" tracking_level="1" version="0" object_id="_2">
+			<IStep>
+				<m_strName>StepPickGlobPairs</m_strName>
+			</IStep>
+			<m_strNameObservations>GlobObservations</m_strNameObservations>
+			<m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
+			<m_flgTestDash>1</m_flgTestDash>
+			<m_iFavoredCam>0</m_iFavoredCam>
+		</item>
+
+		<item class_id="6" class_name="StepSpinConfidence" tracking_level="1" version="0" object_id="_3">
+			<IStep>
+				<m_strName>StepSpinConfidence</m_strName>
+			</IStep>
+			<m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
+			<m_dblMeritLimit>0.94999999999999996</m_dblMeritLimit>
+			<m_dblSpinMatchLimit>0.90000000000000002</m_dblSpinMatchLimit>
+			<m_dblExpectedGlobArea>0.18</m_dblExpectedGlobArea>
+			<m_dblMinConfidence>0.5</m_dblMinConfidence>
+		</item>
+
+		<item class_id="7" class_name="StepAnswerBall" tracking_level="1" version="0" object_id="_4">
+			<IStep>
+				<m_strName>StepAnswerBall</m_strName>
+			</IStep>
+			<m_strInputName>RawObservations</m_strInputName>
+			<m_strSpinName>SpinRanges</m_strSpinName>
+			<m_strAnswerBallName>AnswerBall</m_strAnswerBallName>
+			<m_dblBlurFactor>1.2</m_dblBlurFactor>
+			<m_dblMarginFactor>33</m_dblMarginFactor>
+			<m_iPixelRes>2</m_iPixelRes>
+			<m_iFavoredCamera>0</m_iFavoredCamera>
+			<m_strModelFile></m_strModelFile>
+			<m_dblPpixThresh>0.5</m_dblPpixThresh>
+			<m_flgClearEachRun>1</m_flgClearEachRun>
+			<m_flgUseFixedSpin>0</m_flgUseFixedSpin>
+			<arrayFixedSpin>
+				<item>-6.2774385622041925e+066</item>
+				<item>-6.2774385622041925e+066</item>
+				<item>-6.2774385622041925e+066</item>
+				<item>-6.2774385622041925e+066</item>
+			</arrayFixedSpin>
+		</item>
+
+	</m_Sequence>
+</m_pWorkflow>
+</boost_serialization>
+
