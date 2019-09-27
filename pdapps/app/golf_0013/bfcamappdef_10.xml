@@ -4,11 +4,11 @@
 <proc class_id="0" tracking_level="0" version="0">
 	<m_label>8</m_label>
 	<m_idx>0</m_idx>
-	<m_app_idx>2</m_app_idx>
+	<m_app_idx>5</m_app_idx>
 	<m_comm_num_cams>2</m_comm_num_cams>
 	<m_track_dir>1004</m_track_dir>
-	<m_max_gap>5</m_max_gap>
-	<m_thresh>30</m_thresh>
+	<m_max_gap>3</m_max_gap>
+	<m_thresh>25</m_thresh>
 	<m_num_states>7</m_num_states>
 	<m_state>
 		<count>10</count>
@@ -23,17 +23,17 @@
 			<im_alg>101</im_alg>
 			<row_start>60</row_start>
 			<max_event_cnt>999999999</max_event_cnt>
-			<ball_diam>30</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>800</max_pixel_dist>
-			<err_len>8</err_len>
+			<err_len>12</err_len>
 			<pre_count>25</pre_count>
 			<post_count>10</post_count>
 			<pos>
 				<count>2</count>
-				<item>558</item>
-				<item>234</item>
+				<item>399</item>
+				<item>267</item>
 			</pos>
-			<pos_err>800</pos_err>
+			<pos_err>400</pos_err>
 			<quality>175</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>0</int_spare2>
@@ -48,20 +48,20 @@
 			<state>4</state>
 			<exception_event>9</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>48</im_height>
+			<im_height>60</im_height>
 			<im_width>752</im_width>
 			<im_alg>200</im_alg>
 			<row_start>162</row_start>
 			<max_event_cnt>6</max_event_cnt>
-			<ball_diam>30</ball_diam>
-			<max_pixel_dist>200</max_pixel_dist>
+			<ball_diam>34</ball_diam>
+			<max_pixel_dist>80</max_pixel_dist>
 			<err_len>14</err_len>
 			<pre_count>3</pre_count>
 			<post_count>10</post_count>
 			<pos>
 				<count>2</count>
-				<item>558</item>
-				<item>234</item>
+				<item>399</item>
+				<item>267</item>
 			</pos>
 			<pos_err>100</pos_err>
 			<quality>140</quality>
@@ -75,26 +75,26 @@
 		<item>
 			<enable_flag>1</enable_flag>
 			<seq_num>2</seq_num>
-			<state>8</state>
-			<exception_event>0</exception_event>
-			<exception_idx>3</exception_idx>
-			<im_height>48</im_height>
+			<state>1</state>
+			<exception_event>9</exception_event>
+			<exception_idx>4</exception_idx>
+			<im_height>60</im_height>
 			<im_width>752</im_width>
-			<im_alg>200</im_alg>
+			<im_alg>1502</im_alg>
 			<row_start>0</row_start>
-			<max_event_cnt>4</max_event_cnt>
-			<ball_diam>34</ball_diam>
-			<max_pixel_dist>100</max_pixel_dist>
-			<err_len>6</err_len>
-			<pre_count>10</pre_count>
-			<post_count>10</post_count>
+			<max_event_cnt>99999999</max_event_cnt>
+			<ball_diam>14</ball_diam>
+			<max_pixel_dist>300</max_pixel_dist>
+			<err_len>9</err_len>
+			<pre_count>2</pre_count>
+			<post_count>20</post_count>
 			<pos>
 				<count>2</count>
-				<item>320</item>
+				<item>550</item>
 				<item>240</item>
 			</pos>
-			<pos_err>100</pos_err>
-			<quality>0</quality>
+			<pos_err>6</pos_err>
+			<quality>350</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>0</int_spare2>
 			<int_spare3>0</int_spare3>
@@ -105,28 +105,28 @@
 		<item>
 			<enable_flag>1</enable_flag>
 			<seq_num>3</seq_num>
-			<state>1</state>
+			<state>7</state>
 			<exception_event>9</exception_event>
-			<exception_idx>4</exception_idx>
-			<im_height>48</im_height>
+			<exception_idx>2</exception_idx>
+			<im_height>100</im_height>
 			<im_width>752</im_width>
-			<im_alg>300</im_alg>
+			<im_alg>601</im_alg>
 			<row_start>0</row_start>
-			<max_event_cnt>99999999</max_event_cnt>
-			<ball_diam>34</ball_diam>
-			<max_pixel_dist>800</max_pixel_dist>
-			<err_len>12</err_len>
-			<pre_count>2</pre_count>
-			<post_count>20</post_count>
+			<max_event_cnt>66</max_event_cnt>
+			<ball_diam>14</ball_diam>
+			<max_pixel_dist>300</max_pixel_dist>
+			<err_len>9</err_len>
+			<pre_count>20</pre_count>
+			<post_count>5</post_count>
 			<pos>
 				<count>2</count>
 				<item>550</item>
 				<item>240</item>
 			</pos>
-			<pos_err>6</pos_err>
-			<quality>300</quality>
+			<pos_err>70</pos_err>
+			<quality>350</quality>
 			<int_spare1>0</int_spare1>
-			<int_spare2>0</int_spare2>
+			<int_spare2>3</int_spare2>
 			<int_spare3>0</int_spare3>
 			<spare1_flag>0</spare1_flag>
 			<spare2_flag>0</spare2_flag>
@@ -140,12 +140,12 @@
 			<exception_idx>0</exception_idx>
 			<im_height>100</im_height>
 			<im_width>752</im_width>
-			<im_alg>300</im_alg>
+			<im_alg>305</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>18</max_event_cnt>
-			<ball_diam>30</ball_diam>
-			<max_pixel_dist>200</max_pixel_dist>
-			<err_len>12</err_len>
+			<ball_diam>34</ball_diam>
+			<max_pixel_dist>250</max_pixel_dist>
+			<err_len>16</err_len>
 			<pre_count>3</pre_count>
 			<post_count>14</post_count>
 			<pos>
@@ -153,10 +153,10 @@
 				<item>320</item>
 				<item>240</item>
 			</pos>
-			<pos_err>3</pos_err>
+			<pos_err>8</pos_err>
 			<quality>0</quality>
 			<int_spare1>0</int_spare1>
-			<int_spare2>6</int_spare2>
+			<int_spare2>18</int_spare2>
 			<int_spare3>0</int_spare3>
 			<spare1_flag>0</spare1_flag>
 			<spare2_flag>0</spare2_flag>
@@ -168,13 +168,13 @@
 			<state>6</state>
 			<exception_event>9</exception_event>
 			<exception_idx>1</exception_idx>
-			<im_height>100</im_height>
+			<im_height>60</im_height>
 			<im_width>752</im_width>
 			<im_alg>200</im_alg>
 			<row_start>150</row_start>
 			<max_event_cnt>4</max_event_cnt>
-			<ball_diam>30</ball_diam>
-			<max_pixel_dist>200</max_pixel_dist>
+			<ball_diam>34</ball_diam>
+			<max_pixel_dist>80</max_pixel_dist>
 			<err_len>10</err_len>
 			<pre_count>2</pre_count>
 			<post_count>10</post_count>
@@ -189,7 +189,7 @@
 			<int_spare2>0</int_spare2>
 			<int_spare3>0</int_spare3>
 			<spare1_flag>1</spare1_flag>
-			<spare2_flag>1</spare2_flag>
+			<spare2_flag>0</spare2_flag>
 			<spare3_flag>0</spare3_flag>
 		</item>
 		<item>
@@ -198,7 +198,7 @@
 			<state>10</state>
 			<exception_event>0</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>100</im_height>
+			<im_height>60</im_height>
 			<im_width>752</im_width>
 			<im_alg>0</im_alg>
 			<row_start>0</row_start>
@@ -206,8 +206,8 @@
 			<ball_diam>34</ball_diam>
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>12</err_len>
-			<pre_count>4</pre_count>
-			<post_count>24</post_count>
+			<pre_count>8</pre_count>
+			<post_count>14</post_count>
 			<pos>
 				<count>2</count>
 				<item>320</item>
@@ -225,14 +225,14 @@
 		<item>
 			<enable_flag>0</enable_flag>
 			<seq_num>7</seq_num>
-			<state>10</state>
+			<state>13</state>
 			<exception_event>0</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>48</im_height>
+			<im_height>480</im_height>
 			<im_width>752</im_width>
 			<im_alg>0</im_alg>
 			<row_start>0</row_start>
-			<max_event_cnt>3</max_event_cnt>
+			<max_event_cnt>999999999</max_event_cnt>
 			<ball_diam>38</ball_diam>
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>12</err_len>
@@ -255,26 +255,26 @@
 		<item>
 			<enable_flag>0</enable_flag>
 			<seq_num>8</seq_num>
-			<state>13</state>
+			<state>0</state>
 			<exception_event>0</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>480</im_height>
-			<im_width>752</im_width>
+			<im_height>60</im_height>
+			<im_width>640</im_width>
 			<im_alg>0</im_alg>
 			<row_start>0</row_start>
-			<max_event_cnt>999999999</max_event_cnt>
-			<ball_diam>38</ball_diam>
-			<max_pixel_dist>200</max_pixel_dist>
-			<err_len>12</err_len>
-			<pre_count>20</pre_count>
-			<post_count>6</post_count>
+			<max_event_cnt>5</max_event_cnt>
+			<ball_diam>32</ball_diam>
+			<max_pixel_dist>100</max_pixel_dist>
+			<err_len>10</err_len>
+			<pre_count>10</pre_count>
+			<post_count>10</post_count>
 			<pos>
 				<count>2</count>
 				<item>320</item>
 				<item>240</item>
 			</pos>
 			<pos_err>100</pos_err>
-			<quality>125</quality>
+			<quality>0</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>0</int_spare2>
 			<int_spare3>0</int_spare3>
@@ -313,7 +313,7 @@
 			<spare3_flag>0</spare3_flag>
 		</item>
 	</m_state>
-	<m_int_spare1>40</m_int_spare1>
+	<m_int_spare1>35</m_int_spare1>
 	<m_int_spare2>0</m_int_spare2>
 	<m_int_spare3>0</m_int_spare3>
 	<m_spare1_flag>0</m_spare1_flag>

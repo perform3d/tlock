@@ -74,7 +74,7 @@
 	<m_valid_dot_dist_err_max>0.29999999999999999</m_valid_dot_dist_err_max>
 	<m_debug_enable_flag>0</m_debug_enable_flag>
 	<m_debug_level>1</m_debug_level>
-	<SpareDblOne>0</SpareDblOne>
+	<SpareDblOne>3.7</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
 	<SpareIntOne>1</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
-<boost_serialization signature="serialization::archive" version="11">
+<boost_serialization signature="serialization::archive" version="13">
 <obj class_id="0" tracking_level="0" version="1">
 	<m_name_str>golfsetup_3Ball</m_name_str>
 	<m_date_str>
@@ -22,8 +22,8 @@
 				<m_state>0</m_state>
 				<m_pos>
 					<count>2</count>
-					<item>5.58000000000000000e+002</item>
-					<item>2.34000000000000000e+002</item>
+					<item>6.04000000000000000e+002</item>
+					<item>2.62000000000000000e+002</item>
 				</m_pos>
 				<m_wt>0.00000000000000000e+000</m_wt>
 				<m_area>0.00000000000000000e+000</m_area>
