@@ -2,8 +2,8 @@
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="3">
 <obj class_id="0" tracking_level="0" version="4">
-	<m_name>Baseball_Tee</m_name>
-	<m_label>4</m_label>
+	<m_name>golf sinebar teach</m_name>
+	<m_label>1</m_label>
 	<m_type>0</m_type>
 	<m_full_shot_flag>0</m_full_shot_flag>
 	<m_launch_flag>1</m_launch_flag>
@@ -11,11 +11,11 @@
 	<m_club_flag>0</m_club_flag>
 	<m_center_hit_flag>1</m_center_hit_flag>
 	<m_R_flag>0</m_R_flag>
-	<m_L_flag>0</m_L_flag>
+	<m_L_flag>1</m_L_flag>
 	<m_num_cams>2</m_num_cams>
-	<m_cam_start_label>4</m_cam_start_label>
-	<m_num_club_cams>2</m_num_club_cams>
-	<m_club_cam_start_label>4</m_club_cam_start_label>
+	<m_cam_start_label>90</m_cam_start_label>
+	<m_num_club_cams>0</m_num_club_cams>
+	<m_club_cam_start_label>90</m_club_cam_start_label>
 	<m_nominal_tee_x>0</m_nominal_tee_x>
 	<m_nominal_tee_y>0</m_nominal_tee_y>
 	<m_tee_limit_forward>1000</m_tee_limit_forward>
@@ -47,7 +47,7 @@
 		<item>1</item>
 	</m_up_dir>
 	<m_slow_velocity_max_cm_per_sec>800</m_slow_velocity_max_cm_per_sec>
-	<m_traj_min_vel>40</m_traj_min_vel>
+	<m_traj_min_vel>80</m_traj_min_vel>
 	<m_traj_nom_vec>
 		<count>4</count>
 		<item>0.8660254037844386</item>
@@ -74,13 +74,13 @@
 	<m_valid_dot_dist_err_max>0.29999999999999999</m_valid_dot_dist_err_max>
 	<m_debug_enable_flag>0</m_debug_enable_flag>
 	<m_debug_level>1</m_debug_level>
-	<SpareDblOne>3.7</SpareDblOne>
+	<SpareDblOne>2.14</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
 	<SpareIntOne>1</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>
-	<SpareBoolOne>0</SpareBoolOne>
+	<SpareBoolOne>1</SpareBoolOne>
 	<SpareBoolTwo>0</SpareBoolTwo>
 	<m_strDashModelFile>dashmoddual_standard.txt</m_strDashModelFile>
 	<m_strLogospinWorkflow>\home\tlock\pdapps\app\golf_0013\Logospin - Consecutive Logo.xml</m_strLogospinWorkflow>

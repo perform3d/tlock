@@ -5,7 +5,7 @@
 	<app_name>3Trak_Studio</app_name>
 	<app_idx>13</app_idx>
 	<max_physical_cams>2</max_physical_cams>
-	<num_hit_locations>8</num_hit_locations>
+	<num_hit_locations>7</num_hit_locations>
 	<m_improc_version>3</m_improc_version>
 	<m_cam_version>2</m_cam_version>
 	<m_traj_version>2</m_traj_version>

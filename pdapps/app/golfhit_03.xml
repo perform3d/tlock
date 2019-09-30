@@ -2,20 +2,20 @@
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="3">
 <obj class_id="0" tracking_level="0" version="4">
-	<m_name>Putt_Center_Hit</m_name>
-	<m_label>3</m_label>
+	<m_name>t-ball baseball</m_name>
+	<m_label>4</m_label>
 	<m_type>0</m_type>
 	<m_full_shot_flag>0</m_full_shot_flag>
 	<m_launch_flag>1</m_launch_flag>
-	<m_putt_flag>1</m_putt_flag>
-	<m_club_flag>1</m_club_flag>
+	<m_putt_flag>0</m_putt_flag>
+	<m_club_flag>0</m_club_flag>
 	<m_center_hit_flag>1</m_center_hit_flag>
 	<m_R_flag>0</m_R_flag>
 	<m_L_flag>0</m_L_flag>
 	<m_num_cams>2</m_num_cams>
-	<m_cam_start_label>10</m_cam_start_label>
+	<m_cam_start_label>4</m_cam_start_label>
 	<m_num_club_cams>2</m_num_club_cams>
-	<m_club_cam_start_label>10</m_club_cam_start_label>
+	<m_club_cam_start_label>4</m_club_cam_start_label>
 	<m_nominal_tee_x>0</m_nominal_tee_x>
 	<m_nominal_tee_y>0</m_nominal_tee_y>
 	<m_tee_limit_forward>1000</m_tee_limit_forward>
@@ -74,7 +74,7 @@
 	<m_valid_dot_dist_err_max>0.29999999999999999</m_valid_dot_dist_err_max>
 	<m_debug_enable_flag>0</m_debug_enable_flag>
 	<m_debug_level>1</m_debug_level>
-	<SpareDblOne>0</SpareDblOne>
+	<SpareDblOne>3.7</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
 	<SpareIntOne>1</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>

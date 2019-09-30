@@ -2,13 +2,13 @@
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="3">
 <obj class_id="0" tracking_level="0" version="4">
-	<m_name>Launch_Putt</m_name>
+	<m_name>golf putting</m_name>
 	<m_label>2</m_label>
 	<m_type>0</m_type>
 	<m_full_shot_flag>0</m_full_shot_flag>
 	<m_launch_flag>1</m_launch_flag>
 	<m_putt_flag>1</m_putt_flag>
-	<m_club_flag>0</m_club_flag>
+	<m_club_flag>1</m_club_flag>
 	<m_center_hit_flag>1</m_center_hit_flag>
 	<m_R_flag>0</m_R_flag>
 	<m_L_flag>0</m_L_flag>
@@ -74,7 +74,7 @@
 	<m_valid_dot_dist_err_max>0.29999999999999999</m_valid_dot_dist_err_max>
 	<m_debug_enable_flag>0</m_debug_enable_flag>
 	<m_debug_level>1</m_debug_level>
-	<SpareDblOne>0</SpareDblOne>
+	<SpareDblOne>2.14</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
 	<SpareIntOne>1</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
