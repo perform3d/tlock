@@ -20,6 +20,6 @@
 	<TargetPercentBack>0.10000000000000001</TargetPercentBack>
 	<SpareDblOne>160</SpareDblOne>
 	<SpareDblTwo>65</SpareDblTwo>
-	<SpareIntOne>14</SpareIntOne>
-	<SpareIntTwo>4</SpareIntTwo>
+	<SpareIntOne>10</SpareIntOne>
+	<SpareIntTwo>2</SpareIntTwo>
 </obj>

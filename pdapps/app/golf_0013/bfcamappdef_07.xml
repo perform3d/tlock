@@ -7,7 +7,7 @@
 	<m_app_idx>4</m_app_idx>
 	<m_comm_num_cams>2</m_comm_num_cams>
 	<m_track_dir>1004</m_track_dir>
-	<m_max_gap>7</m_max_gap>
+	<m_max_gap>10</m_max_gap>
 	<m_thresh>20</m_thresh>
 	<m_num_states>7</m_num_states>
 	<m_state>
@@ -127,7 +127,7 @@
 			<quality>0</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>0</int_spare2>
-			<int_spare3>20</int_spare3>
+			<int_spare3>25</int_spare3>
 			<spare1_flag>0</spare1_flag>
 			<spare2_flag>0</spare2_flag>
 			<spare3_flag>0</spare3_flag>
@@ -183,7 +183,7 @@
 				<item>417</item>
 				<item>231</item>
 			</pos>
-			<pos_err>6</pos_err>
+			<pos_err>25</pos_err>
 			<quality>125</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>0</int_spare2>

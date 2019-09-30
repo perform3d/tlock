@@ -5,7 +5,7 @@
 	<m_name>imstep_ball</m_name>
 	<m_cam>0</m_cam>
 	<m_virtual_cam>8</m_virtual_cam>
-	<m_alg>0</m_alg>
+	<m_alg>9</m_alg>
 	<m_spare_bool1>0</m_spare_bool1>
 	<m_spare_bool2>0</m_spare_bool2>
 	<m_spare_int1>0</m_spare_int1>
@@ -51,18 +51,18 @@
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>65</m_ball_diam>
-		<m_err_len>15</m_err_len>
-		<m_x_min_len>20</m_x_min_len>
-		<m_x_max_len>85</m_x_max_len>
-		<m_y_min_len>20</m_y_min_len>
-		<m_y_max_len>85</m_y_max_len>
-		<m_avg_area>4000</m_avg_area>
-		<m_min_area>200</m_min_area>
-		<m_max_area>6000</m_max_area>
-		<m_avg_radius>32</m_avg_radius>
-		<m_min_radius>22</m_min_radius>
-		<m_max_radius>45</m_max_radius>
+		<m_ball_diam>150</m_ball_diam>
+		<m_err_len>40</m_err_len>
+		<m_x_min_len>75</m_x_min_len>
+		<m_x_max_len>200</m_x_max_len>
+		<m_y_min_len>60</m_y_min_len>
+		<m_y_max_len>200</m_y_max_len>
+		<m_avg_area>13000</m_avg_area>
+		<m_min_area>7000</m_min_area>
+		<m_max_area>20000</m_max_area>
+		<m_avg_radius>75</m_avg_radius>
+		<m_min_radius>40</m_min_radius>
+		<m_max_radius>100</m_max_radius>
 		<m_max_percent_cropped>90</m_max_percent_cropped>
 		<m_max_percent_gap>90</m_max_percent_gap>
 		<m_min_percent_valid_pts>0</m_min_percent_valid_pts>
@@ -147,14 +147,14 @@
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
 		<m_ball_diam>36</m_ball_diam>
-		<m_err_len>5</m_err_len>
-		<m_x_min_len>5</m_x_min_len>
-		<m_x_max_len>15</m_x_max_len>
-		<m_y_min_len>5</m_y_min_len>
-		<m_y_max_len>15</m_y_max_len>
-		<m_avg_area>972</m_avg_area>
-		<m_min_area>40</m_min_area>
-		<m_max_area>240</m_max_area>
+		<m_err_len>25</m_err_len>
+		<m_x_min_len>75</m_x_min_len>
+		<m_x_max_len>200</m_x_max_len>
+		<m_y_min_len>60</m_y_min_len>
+		<m_y_max_len>200</m_y_max_len>
+		<m_avg_area>14000</m_avg_area>
+		<m_min_area>6000</m_min_area>
+		<m_max_area>20000</m_max_area>
 		<m_avg_radius>18</m_avg_radius>
 		<m_min_radius>14</m_min_radius>
 		<m_max_radius>26</m_max_radius>
@@ -214,18 +214,18 @@
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>65</m_ball_diam>
-		<m_err_len>15</m_err_len>
-		<m_x_min_len>20</m_x_min_len>
-		<m_x_max_len>85</m_x_max_len>
-		<m_y_min_len>20</m_y_min_len>
-		<m_y_max_len>85</m_y_max_len>
-		<m_avg_area>4000</m_avg_area>
-		<m_min_area>1500</m_min_area>
-		<m_max_area>7000</m_max_area>
-		<m_avg_radius>32</m_avg_radius>
-		<m_min_radius>20</m_min_radius>
-		<m_max_radius>40</m_max_radius>
+		<m_ball_diam>150</m_ball_diam>
+		<m_err_len>40</m_err_len>
+		<m_x_min_len>75</m_x_min_len>
+		<m_x_max_len>200</m_x_max_len>
+		<m_y_min_len>60</m_y_min_len>
+		<m_y_max_len>200</m_y_max_len>
+		<m_avg_area>13000</m_avg_area>
+		<m_min_area>7000</m_min_area>
+		<m_max_area>20000</m_max_area>
+		<m_avg_radius>75</m_avg_radius>
+		<m_min_radius>40</m_min_radius>
+		<m_max_radius>100</m_max_radius>
 		<m_max_percent_cropped>60</m_max_percent_cropped>
 		<m_max_percent_gap>60</m_max_percent_gap>
 		<m_min_percent_valid_pts>25</m_min_percent_valid_pts>
