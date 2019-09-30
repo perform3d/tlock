@@ -76,11 +76,11 @@
 	<m_debug_level>1</m_debug_level>
 	<SpareDblOne>2.14</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
-	<SpareIntOne>2</SpareIntOne>
+	<SpareIntOne>0</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>
-	<SpareBoolOne>1</SpareBoolOne>
+	<SpareBoolOne>0</SpareBoolOne>
 	<SpareBoolTwo>0</SpareBoolTwo>
 	<m_strDashModelFile>dashmoddual_standard.txt</m_strDashModelFile>
 	<m_strLogospinWorkflow>\home\tlock\pdapps\app\golf_0013\Logospin - Consecutive Logo.xml</m_strLogospinWorkflow>
