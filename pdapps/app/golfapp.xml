@@ -22,7 +22,7 @@
 	<cal_enable_flag>0</cal_enable_flag>
 	<comm_mode>0</comm_mode>
 	<debug_enable_flag>1</debug_enable_flag>
-	<debug_level>5</debug_level>
+	<debug_level>2</debug_level>
 	<print_enable_flag>1</print_enable_flag>
 	<print_level>1</print_level>
 	<SpareDblOne>0</SpareDblOne>
