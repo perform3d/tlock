@@ -7,7 +7,7 @@
 	<max_physical_cams>2</max_physical_cams>
 	<num_hit_locations>7</num_hit_locations>
 	<m_improc_version>3</m_improc_version>
-	<m_cam_version>0</m_cam_version>
+	<m_cam_version>2</m_cam_version>
 	<m_traj_version>2</m_traj_version>
 	<m_spin_version>1</m_spin_version>
 	<m_ball_version>4</m_ball_version>
@@ -22,7 +22,7 @@
 	<cal_enable_flag>0</cal_enable_flag>
 	<comm_mode>0</comm_mode>
 	<debug_enable_flag>1</debug_enable_flag>
-	<debug_level>2</debug_level>
+	<debug_level>1</debug_level>
 	<print_enable_flag>1</print_enable_flag>
 	<print_level>1</print_level>
 	<SpareDblOne>0</SpareDblOne>
