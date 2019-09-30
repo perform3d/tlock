@@ -58,12 +58,12 @@
 			<m_strModelFile></m_strModelFile>
 			<m_dblPpixThresh>0.5</m_dblPpixThresh>
 			<m_flgClearEachRun>1</m_flgClearEachRun>
-			<m_flgUseFixedSpin>0</m_flgUseFixedSpin>
+			<m_flgUseFixedSpin>1</m_flgUseFixedSpin>
 			<arrayFixedSpin>
-				<item>-6.2774385622041925e+066</item>
-				<item>-6.2774385622041925e+066</item>
-				<item>-6.2774385622041925e+066</item>
-				<item>-6.2774385622041925e+066</item>
+				<item>0.0</item>
+				<item>0.0</item>
+				<item>0.0</item>
+				<item>1.0</item>
 			</arrayFixedSpin>
 		</item>
 
