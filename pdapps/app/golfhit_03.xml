@@ -47,13 +47,13 @@
 		<item>1</item>
 	</m_up_dir>
 	<m_slow_velocity_max_cm_per_sec>800</m_slow_velocity_max_cm_per_sec>
-	<m_traj_min_vel>40</m_traj_min_vel>
+	<m_traj_min_vel>-999999999.0</m_traj_min_vel>
 	<m_traj_nom_vec>
 		<count>4</count>
 		<item>0.8660254037844386</item>
 		<item>0</item>
 		<item>0.5</item>
-		<item>0.57357643635104605</item>
+		<item>-99999999999.0</item>
 	</m_traj_nom_vec>
 	<m_traj_nominal_flight_vec>
 		<count>3</count>
