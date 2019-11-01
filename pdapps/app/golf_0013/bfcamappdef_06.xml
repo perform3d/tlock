@@ -20,7 +20,7 @@
 			<exception_idx>0</exception_idx>
 			<im_height>400</im_height>
 			<im_width>752</im_width>
-			<im_alg>102</im_alg>
+			<im_alg>4102</im_alg>
 			<row_start>60</row_start>
 			<max_event_cnt>999999999</max_event_cnt>
 			<ball_diam>150</ball_diam>
@@ -50,7 +50,7 @@
 			<exception_idx>0</exception_idx>
 			<im_height>200</im_height>
 			<im_width>752</im_width>
-			<im_alg>201</im_alg>
+			<im_alg>4200</im_alg>
 			<row_start>162</row_start>
 			<max_event_cnt>6</max_event_cnt>
 			<ball_diam>150</ball_diam>
@@ -80,7 +80,7 @@
 			<exception_idx>3</exception_idx>
 			<im_height>200</im_height>
 			<im_width>752</im_width>
-			<im_alg>201</im_alg>
+			<im_alg>4200</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>4</max_event_cnt>
 			<ball_diam>150</ball_diam>
@@ -110,7 +110,7 @@
 			<exception_idx>4</exception_idx>
 			<im_height>200</im_height>
 			<im_width>752</im_width>
-			<im_alg>301</im_alg>
+			<im_alg>4300</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>999999</max_event_cnt>
 			<ball_diam>150</ball_diam>
@@ -140,7 +140,7 @@
 			<exception_idx>0</exception_idx>
 			<im_height>200</im_height>
 			<im_width>752</im_width>
-			<im_alg>301</im_alg>
+			<im_alg>4300</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>18</max_event_cnt>
 			<ball_diam>150</ball_diam>
@@ -170,7 +170,7 @@
 			<exception_idx>6</exception_idx>
 			<im_height>200</im_height>
 			<im_width>752</im_width>
-			<im_alg>200</im_alg>
+			<im_alg>4200</im_alg>
 			<row_start>150</row_start>
 			<max_event_cnt>4</max_event_cnt>
 			<ball_diam>150</ball_diam>

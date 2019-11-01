@@ -54,15 +54,15 @@
 		<m_ball_diam>150</m_ball_diam>
 		<m_err_len>40</m_err_len>
 		<m_x_min_len>75</m_x_min_len>
-		<m_x_max_len>200</m_x_max_len>
+		<m_x_max_len>220</m_x_max_len>
 		<m_y_min_len>60</m_y_min_len>
 		<m_y_max_len>200</m_y_max_len>
 		<m_avg_area>13000</m_avg_area>
 		<m_min_area>7000</m_min_area>
-		<m_max_area>20000</m_max_area>
+		<m_max_area>25000</m_max_area>
 		<m_avg_radius>75</m_avg_radius>
 		<m_min_radius>40</m_min_radius>
-		<m_max_radius>100</m_max_radius>
+		<m_max_radius>110</m_max_radius>
 		<m_max_percent_cropped>90</m_max_percent_cropped>
 		<m_max_percent_gap>90</m_max_percent_gap>
 		<m_min_percent_valid_pts>0</m_min_percent_valid_pts>
@@ -73,9 +73,9 @@
 		<m_x_max>752</m_x_max>
 		<m_y_max>479</m_y_max>
 		<m_ecc_min>0</m_ecc_min>
-		<m_ecc_max>2</m_ecc_max>
+		<m_ecc_max>3</m_ecc_max>
 		<m_cmpt_min>0</m_cmpt_min>
-		<m_cmpt_max>2</m_cmpt_max>
+		<m_cmpt_max>3</m_cmpt_max>
 		<m_min_ang>0</m_min_ang>
 		<m_max_ang>360</m_max_ang>
 		<m_percent_thresh>50</m_percent_thresh>

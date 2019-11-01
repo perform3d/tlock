@@ -47,7 +47,7 @@
 		<item>1</item>
 	</m_up_dir>
 	<m_slow_velocity_max_cm_per_sec>800</m_slow_velocity_max_cm_per_sec>
-	<m_traj_min_vel>40</m_traj_min_vel>
+	<m_traj_min_vel>-99999999.0</m_traj_min_vel>
 	<m_traj_nom_vec>
 		<count>4</count>
 		<item>0.8660254037844386</item>
@@ -76,7 +76,7 @@
 	<m_debug_level>1</m_debug_level>
 	<SpareDblOne>10.98</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
-	<SpareIntOne>0</SpareIntOne>
+	<SpareIntOne>3</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>
