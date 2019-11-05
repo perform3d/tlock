@@ -57,7 +57,7 @@
 		<m_x_max_len>100</m_x_max_len>
 		<m_y_min_len>20</m_y_min_len>
 		<m_y_max_len>100</m_y_max_len>
-		<m_avg_area>4000</m_avg_area>
+		<m_avg_area>4500</m_avg_area>
 		<m_min_area>2000</m_min_area>
 		<m_max_area>15000</m_max_area>
 		<m_avg_radius>40</m_avg_radius>
@@ -220,7 +220,7 @@
 		<m_x_max_len>100</m_x_max_len>
 		<m_y_min_len>20</m_y_min_len>
 		<m_y_max_len>100</m_y_max_len>
-		<m_avg_area>6000</m_avg_area>
+		<m_avg_area>4500</m_avg_area>
 		<m_min_area>1500</m_min_area>
 		<m_max_area>15000</m_max_area>
 		<m_avg_radius>40</m_avg_radius>
