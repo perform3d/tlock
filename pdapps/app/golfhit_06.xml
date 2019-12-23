@@ -81,7 +81,7 @@
 	<SpareStringOne>spare1</SpareStringOne>
 	<SpareStringTwo>spare2</SpareStringTwo>
 	<SpareBoolOne>0</SpareBoolOne>
-	<SpareBoolTwo>1</SpareBoolTwo>
+	<SpareBoolTwo>0</SpareBoolTwo>
 	<m_strDashModelFile>dashmoddual_standard.txt</m_strDashModelFile>
 	<m_strLogospinWorkflow>\home\tlock\pdapps\app\golf_0013\Logospin - Consecutive Logo.xml</m_strLogospinWorkflow>
 </obj>
