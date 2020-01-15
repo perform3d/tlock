@@ -51,8 +51,8 @@
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>75</m_ball_diam>
-		<m_err_len>25</m_err_len>
+		<m_ball_diam>80</m_ball_diam>
+		<m_err_len>30</m_err_len>
 		<m_x_min_len>20</m_x_min_len>
 		<m_x_max_len>100</m_x_max_len>
 		<m_y_min_len>20</m_y_min_len>
@@ -214,8 +214,8 @@
 		<m_name></m_name>
 		<m_valid_flag>1</m_valid_flag>
 		<m_alg>0</m_alg>
-		<m_ball_diam>75</m_ball_diam>
-		<m_err_len>25</m_err_len>
+		<m_ball_diam>80</m_ball_diam>
+		<m_err_len>30</m_err_len>
 		<m_x_min_len>20</m_x_min_len>
 		<m_x_max_len>100</m_x_max_len>
 		<m_y_min_len>20</m_y_min_len>

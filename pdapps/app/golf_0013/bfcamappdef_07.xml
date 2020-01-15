@@ -189,7 +189,7 @@
 			<int_spare2>0</int_spare2>
 			<int_spare3>0</int_spare3>
 			<spare1_flag>0</spare1_flag>
-			<spare2_flag>0</spare2_flag>
+			<spare2_flag>1</spare2_flag>
 			<spare3_flag>0</spare3_flag>
 		</item>
 		<item>
