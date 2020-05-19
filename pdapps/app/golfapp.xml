@@ -34,3 +34,4 @@
 	<SpareBoolOne>0</SpareBoolOne>
 	<SpareBoolTwo>1</SpareBoolTwo>
 </obj>
+</boost_serialization>

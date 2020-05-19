@@ -39,3 +39,4 @@
 	<SpareIntOne>2</SpareIntOne>
 	<SpareIntTwo>3</SpareIntTwo>
 </obj>
+</boost_serialization>

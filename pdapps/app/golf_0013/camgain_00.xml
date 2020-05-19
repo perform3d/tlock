@@ -23,3 +23,4 @@
 	<SpareIntOne>10</SpareIntOne>
 	<SpareIntTwo>2</SpareIntTwo>
 </obj>
+</boost_serialization>

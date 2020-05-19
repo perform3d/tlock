@@ -210,3 +210,4 @@
 		<m_spare_float2>0</m_spare_float2>
 	</m_post_filter>
 </proc>
+</boost_serialization>

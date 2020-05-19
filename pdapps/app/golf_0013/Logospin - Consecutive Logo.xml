@@ -9,7 +9,7 @@
 	<m_flgTimer>1</m_flgTimer>
 
 	<m_Sequence class_id="2" tracking_level="0" version="0">
-		<count>4</count>
+		<count>3</count>
 		<item_version>0</item_version>
 
 		<item class_id="3" class_name="StepPpixGlobExtract" tracking_level="1" version="0" object_id="_1">
@@ -18,7 +18,7 @@
 			</IStep>
 			<m_strInputName>RawObservations</m_strInputName>
 			<m_strGlobResultsName>GlobObservations</m_strGlobResultsName>
-			<m_dblBlurFactor>1.2</m_dblBlurFactor>
+			<m_dblBlurFactor>1.7</m_dblBlurFactor>
 			<m_dblMarginFactor>33</m_dblMarginFactor>
 			<m_iPixelRes>2</m_iPixelRes>
 		</item>
@@ -40,31 +40,8 @@
 			<m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
 			<m_dblMeritLimit>0.94999999999999996</m_dblMeritLimit>
 			<m_dblSpinMatchLimit>0.90000000000000002</m_dblSpinMatchLimit>
-			<m_dblExpectedGlobArea>0.34999999999999998</m_dblExpectedGlobArea>
-			<m_dblMinConfidence>0.5</m_dblMinConfidence>
-		</item>
-
-		<item class_id="7" class_name="StepAnswerBall" tracking_level="1" version="0" object_id="_4">
-			<IStep>
-				<m_strName>StepAnswerBall</m_strName>
-			</IStep>
-			<m_strInputName>RawObservations</m_strInputName>
-			<m_strSpinName>SpinRanges</m_strSpinName>
-			<m_strAnswerBallName>AnswerBall</m_strAnswerBallName>
-			<m_dblBlurFactor>1.2</m_dblBlurFactor>
-			<m_dblMarginFactor>33</m_dblMarginFactor>
-			<m_iPixelRes>2</m_iPixelRes>
-			<m_iFavoredCamera>0</m_iFavoredCamera>
-			<m_strModelFile></m_strModelFile>
-			<m_dblPpixThresh>0.5</m_dblPpixThresh>
-			<m_flgClearEachRun>1</m_flgClearEachRun>
-			<m_flgUseFixedSpin>1</m_flgUseFixedSpin>
-			<arrayFixedSpin>
-				<item>0.0</item>
-				<item>0.0</item>
-				<item>0.0</item>
-				<item>1.0</item>
-			</arrayFixedSpin>
+			<m_dblExpectedGlobArea>0.15</m_dblExpectedGlobArea>
+			<m_dblMinConfidence>0.3</m_dblMinConfidence>
 		</item>
 
 	</m_Sequence>

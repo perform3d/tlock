@@ -108,7 +108,7 @@
 			<state>7</state>
 			<exception_event>9</exception_event>
 			<exception_idx>2</exception_idx>
-			<im_height>44</im_height>
+			<im_height>42</im_height>
 			<im_width>752</im_width>
 			<im_alg>601</im_alg>
 			<row_start>0</row_start>
@@ -138,7 +138,7 @@
 			<state>12</state>
 			<exception_event>0</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>38</im_height>
+			<im_height>36</im_height>
 			<im_width>752</im_width>
 			<im_alg>305</im_alg>
 			<row_start>0</row_start>
@@ -147,7 +147,7 @@
 			<max_pixel_dist>250</max_pixel_dist>
 			<err_len>16</err_len>
 			<pre_count>3</pre_count>
-			<post_count>14</post_count>
+			<post_count>16</post_count>
 			<pos>
 				<count>2</count>
 				<item>320</item>
@@ -207,7 +207,7 @@
 			<max_pixel_dist>200</max_pixel_dist>
 			<err_len>12</err_len>
 			<pre_count>8</pre_count>
-			<post_count>14</post_count>
+			<post_count>16</post_count>
 			<pos>
 				<count>2</count>
 				<item>320</item>

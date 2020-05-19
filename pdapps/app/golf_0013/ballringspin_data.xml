@@ -35,3 +35,4 @@
 	<SpareIntOne>0</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>
 </obj>
+</boost_serialization>

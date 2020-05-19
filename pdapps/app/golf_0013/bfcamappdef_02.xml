@@ -320,3 +320,4 @@
 	<m_spare2_flag>0</m_spare2_flag>
 	<m_spare3_flag>0</m_spare3_flag>
 </proc>
+</boost_serialization>
