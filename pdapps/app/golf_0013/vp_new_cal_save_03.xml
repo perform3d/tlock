@@ -91,3 +91,4 @@
 	<m_roi_flag>1</m_roi_flag>
 	<m_remove_spot_flag>0</m_remove_spot_flag>
 </proc>
+</boost_serialization>
