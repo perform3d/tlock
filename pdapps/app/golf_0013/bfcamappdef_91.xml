@@ -23,7 +23,7 @@
 			<im_alg>10</im_alg>
 			<row_start>280</row_start>
 			<max_event_cnt>5</max_event_cnt>
-			<ball_diam>30</ball_diam>
+			<ball_diam>34</ball_diam>
 			<max_pixel_dist>800</max_pixel_dist>
 			<err_len>22</err_len>
 			<pre_count>6</pre_count>
@@ -48,7 +48,7 @@
 			<state>2</state>
 			<exception_event>9</exception_event>
 			<exception_idx>3</exception_idx>
-			<im_height>140</im_height>
+			<im_height>40</im_height>
 			<im_width>752</im_width>
 			<im_alg>10</im_alg>
 			<row_start>0</row_start>
@@ -78,7 +78,7 @@
 			<state>10</state>
 			<exception_event>9</exception_event>
 			<exception_idx>4</exception_idx>
-			<im_height>140</im_height>
+			<im_height>40</im_height>
 			<im_width>752</im_width>
 			<im_alg>10</im_alg>
 			<row_start>0</row_start>
@@ -86,7 +86,7 @@
 			<ball_diam>34</ball_diam>
 			<max_pixel_dist>300</max_pixel_dist>
 			<err_len>20</err_len>
-			<pre_count>2</pre_count>
+			<pre_count>4</pre_count>
 			<post_count>12</post_count>
 			<pos>
 				<count>2</count>

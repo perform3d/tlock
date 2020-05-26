@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="11">
+<proc class_id="0" tracking_level="0" version="0">
+	<m_label>1</m_label>
+	<m_idx>0</m_idx>
+	<m_count>0</m_count>
+	<m_thresh>25</m_thresh>
+	<m_thresh2>0</m_thresh2>
+	<m_x1>0</m_x1>
+	<m_y1>0</m_y1>
+	<m_width>752</m_width>
+	<m_height>480</m_height>
+	<m_size>215</m_size>
+	<m_bin>1</m_bin>
+	<m_start_height>80</m_start_height>
+	<m_skip>4</m_skip>
+	<m_delta>-5</m_delta>
+	<m_frames_skip>5</m_frames_skip>
+	<m_frames_abort>28</m_frames_abort>
+	<m_frames_max>99999999</m_frames_max>
+	<m_ball_diam>36</m_ball_diam>
+	<m_min_runs>2</m_min_runs>
+	<m_noise_size>10</m_noise_size>
+	<m_object_size>12</m_object_size>
+	<m_val1>335</m_val1>
+	<m_val2>500</m_val2>
+	<m_val3>150</m_val3>
+</proc>
+</boost_serialization>
+
