@@ -58,7 +58,7 @@
 		<m_y_min_len>5</m_y_min_len>
 		<m_y_max_len>15</m_y_max_len>
 		<m_avg_area>800</m_avg_area>
-		<m_min_area>200</m_min_area>
+		<m_min_area>100</m_min_area>
 		<m_max_area>6000</m_max_area>
 		<m_avg_radius>19</m_avg_radius>
 		<m_min_radius>14</m_min_radius>

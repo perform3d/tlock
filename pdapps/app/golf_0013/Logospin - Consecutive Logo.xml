@@ -22,9 +22,11 @@
 			<m_dblMarginFactor>33</m_dblMarginFactor>
 			<m_iPixelRes>2</m_iPixelRes>
 			<m_iMergeGap>3</m_iMergeGap>
+			<m_iPixEdgeLimit>3</m_iPixEdgeLimit>
+			<m_iBlobConvexHullFlag>0</m_iBlobConvexHullFlag>
 			<m_dblGlobAreaExpected>0.15</m_dblGlobAreaExpected>
 			<m_dblGlobAreaMin>0.08</m_dblGlobAreaMin>
-			<m_dblGlobAreaMax>0.35</m_dblGlobAreaMax>
+			<m_dblGlobAreaMax>0.4</m_dblGlobAreaMax>
 		</item>
 
 		<item class_id="5" class_name="StepPickGlobPairs" tracking_level="1" version="0" object_id="_2">
