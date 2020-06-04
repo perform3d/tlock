@@ -19,7 +19,7 @@
 	<TargetPercent>0.10000000000000001</TargetPercent>
 	<TargetPercentBack>0.10000000000000001</TargetPercentBack>
 	<SpareDblOne>160</SpareDblOne>
-	<SpareDblTwo>65</SpareDblTwo>
+	<SpareDblTwo>90</SpareDblTwo>
 	<SpareIntOne>10</SpareIntOne>
 	<SpareIntTwo>2</SpareIntTwo>
 </obj>
