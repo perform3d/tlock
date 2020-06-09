@@ -8,7 +8,7 @@
 	<m_comm_num_cams>2</m_comm_num_cams>
 	<m_track_dir>1004</m_track_dir>
 	<m_max_gap>5</m_max_gap>
-	<m_thresh>30</m_thresh>
+	<m_thresh>25</m_thresh>
 	<m_num_states>7</m_num_states>
 	<m_state>
 		<count>10</count>
@@ -20,7 +20,7 @@
 			<exception_idx>0</exception_idx>
 			<im_height>360</im_height>
 			<im_width>752</im_width>
-			<im_alg>102</im_alg>
+			<im_alg>101</im_alg>
 			<row_start>60</row_start>
 			<max_event_cnt>999999999</max_event_cnt>
 			<ball_diam>34</ball_diam>
@@ -54,7 +54,7 @@
 			<row_start>162</row_start>
 			<max_event_cnt>6</max_event_cnt>
 			<ball_diam>34</ball_diam>
-			<max_pixel_dist>200</max_pixel_dist>
+			<max_pixel_dist>80</max_pixel_dist>
 			<err_len>14</err_len>
 			<pre_count>3</pre_count>
 			<post_count>10</post_count>
@@ -85,7 +85,7 @@
 			<max_event_cnt>4</max_event_cnt>
 			<ball_diam>34</ball_diam>
 			<max_pixel_dist>100</max_pixel_dist>
-			<err_len>10</err_len>
+			<err_len>12</err_len>
 			<pre_count>10</pre_count>
 			<post_count>10</post_count>
 			<pos>

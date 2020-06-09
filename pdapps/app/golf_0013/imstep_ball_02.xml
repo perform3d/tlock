@@ -58,7 +58,7 @@
 		<m_y_min_len>5</m_y_min_len>
 		<m_y_max_len>15</m_y_max_len>
 		<m_avg_area>800</m_avg_area>
-		<m_min_area>200</m_min_area>
+		<m_min_area>100</m_min_area>
 		<m_max_area>6000</m_max_area>
 		<m_avg_radius>18</m_avg_radius>
 		<m_min_radius>14</m_min_radius>
@@ -100,7 +100,7 @@
 		<m_thresh_type>1</m_thresh_type>
 		<m_dot_color>1</m_dot_color>
 		<m_thresh>30</m_thresh>
-		<m_noise_thresh>45</m_noise_thresh>
+		<m_noise_thresh>30</m_noise_thresh>
 		<m_thresh_bias>0</m_thresh_bias>
 		<m_decay_rate>0</m_decay_rate>
 		<m_min_gap>0</m_min_gap>
@@ -224,7 +224,7 @@
 		<m_min_area>300</m_min_area>
 		<m_max_area>4000</m_max_area>
 		<m_avg_radius>18</m_avg_radius>
-		<m_min_radius>14</m_min_radius>
+		<m_min_radius>10</m_min_radius>
 		<m_max_radius>26</m_max_radius>
 		<m_max_percent_cropped>60</m_max_percent_cropped>
 		<m_max_percent_gap>60</m_max_percent_gap>
