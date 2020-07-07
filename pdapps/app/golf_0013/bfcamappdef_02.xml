@@ -48,7 +48,7 @@
 			<state>4</state>
 			<exception_event>9</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>38</im_height>
+			<im_height>44</im_height>
 			<im_width>752</im_width>
 			<im_alg>200</im_alg>
 			<row_start>162</row_start>
@@ -110,11 +110,11 @@
 			<exception_idx>4</exception_idx>
 			<im_height>38</im_height>
 			<im_width>752</im_width>
-			<im_alg>305</im_alg>
+			<im_alg>300</im_alg>
 			<row_start>0</row_start>
 			<max_event_cnt>99999999</max_event_cnt>
 			<ball_diam>34</ball_diam>
-			<max_pixel_dist>800</max_pixel_dist>
+			<max_pixel_dist>300</max_pixel_dist>
 			<err_len>12</err_len>
 			<pre_count>2</pre_count>
 			<post_count>20</post_count>
@@ -124,7 +124,7 @@
 				<item>240</item>
 			</pos>
 			<pos_err>6</pos_err>
-			<quality>150</quality>
+			<quality>350</quality>
 			<int_spare1>0</int_spare1>
 			<int_spare2>0</int_spare2>
 			<int_spare3>0</int_spare3>

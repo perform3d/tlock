@@ -22,7 +22,7 @@
 			<m_dblMarginFactor>33</m_dblMarginFactor>
 			<m_iPixelRes>2</m_iPixelRes>
 			<m_iMergeGap>3</m_iMergeGap>
-			<m_iPixEdgeLimit>3</m_iPixEdgeLimit>
+			<m_iPixEdgeLimit>2</m_iPixEdgeLimit>
 			<m_iBlobConvexHullFlag>0</m_iBlobConvexHullFlag>
 			<m_dblGlobAreaExpected>0.15</m_dblGlobAreaExpected>
 			<m_dblGlobAreaMin>0.08</m_dblGlobAreaMin>
