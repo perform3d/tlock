@@ -21,7 +21,7 @@
 			<im_height>480</im_height>
 			<im_width>752</im_width>
 			<im_alg>10</im_alg>
-			<row_start>280</row_start>
+			<row_start>0</row_start>
 			<max_event_cnt>50</max_event_cnt>
 			<ball_diam>34</ball_diam>
 			<max_pixel_dist>800</max_pixel_dist>
@@ -48,7 +48,7 @@
 			<state>2</state>
 			<exception_event>9</exception_event>
 			<exception_idx>3</exception_idx>
-			<im_height>40</im_height>
+			<im_height>44</im_height>
 			<im_width>752</im_width>
 			<im_alg>10</im_alg>
 			<row_start>0</row_start>
@@ -78,7 +78,7 @@
 			<state>10</state>
 			<exception_event>9</exception_event>
 			<exception_idx>4</exception_idx>
-			<im_height>40</im_height>
+			<im_height>44</im_height>
 			<im_width>752</im_width>
 			<im_alg>10</im_alg>
 			<row_start>0</row_start>
@@ -108,7 +108,7 @@
 			<state>10</state>
 			<exception_event>0</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>40</im_height>
+			<im_height>44</im_height>
 			<im_width>640</im_width>
 			<im_alg>0</im_alg>
 			<row_start>0</row_start>
