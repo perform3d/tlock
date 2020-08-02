@@ -1,0 +1,28 @@
+# Logo single stripe simulation
+# first line is width length and ball radius
+3.0  12.0  21.3
+
+#additional lines theta phi chi (twist) of dashes in stamps
+0  90  0
+0  75  0
+0  105  0
+0  90  0
+0  90  0
+
+0  90  0
+0  90  0
+0  90  0
+0  90  0
+0  90  0
+
+0  90  0
+0  90  0
+0  90  0
+0  90  0
+0  90  0
+
+0  270  0
+0  255  0
+0  285  0
+0  270  0
+0  270  0
