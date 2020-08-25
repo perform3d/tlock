@@ -27,7 +27,7 @@
 	<m_line_std_dev_err_max>0.5</m_line_std_dev_err_max>
 	<m_pt_dist_err_max>5</m_pt_dist_err_max>
 	<m_min_y_pix_vel>0.02</m_min_y_pix_vel>
-	<m_error_max>2.1400000000000001</m_error_max>
+	<m_error_max>2.12900000000000001</m_error_max>
 	<m_forward_dir>
 		<count>3</count>
 		<item>1</item>
@@ -74,7 +74,7 @@
 	<m_valid_dot_dist_err_max>0.29999999999999999</m_valid_dot_dist_err_max>
 	<m_debug_enable_flag>0</m_debug_enable_flag>
 	<m_debug_level>1</m_debug_level>
-	<SpareDblOne>2.14</SpareDblOne>
+	<SpareDblOne>2.129</SpareDblOne>
 	<SpareDblTwo>0</SpareDblTwo>
 	<SpareIntOne>0</SpareIntOne>
 	<SpareIntTwo>0</SpareIntTwo>

@@ -1,6 +1,6 @@
 # Calloway Ball
 # first line is width length and ball radius
-2.4  7.5  21.3
+2.4  7.5  21.29
 
 #additional lines theta phi chi (twist) of dashes in stamps
 13  0  0
