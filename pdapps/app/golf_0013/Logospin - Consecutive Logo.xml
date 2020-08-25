@@ -9,7 +9,7 @@
 	<m_flgTimer>1</m_flgTimer>
 
 	<m_Sequence class_id="2" tracking_level="0" version="0">
-		<count>3</count>
+		<count>4</count>
 		<item_version>0</item_version>
 
 		<item class_id="3" class_name="StepPpixGlobExtract" tracking_level="1" version="1" object_id="_1">
@@ -25,7 +25,7 @@
 			<m_iPixEdgeLimit>3</m_iPixEdgeLimit>
 			<m_iBlobConvexHullFlag>0</m_iBlobConvexHullFlag>
 			<m_dblGlobAreaExpected>0.15</m_dblGlobAreaExpected>
-			<m_dblGlobAreaMin>0.08</m_dblGlobAreaMin>
+			<m_dblGlobAreaMin>0.06</m_dblGlobAreaMin>
 			<m_dblGlobAreaMax>0.4</m_dblGlobAreaMax>
 		</item>
 
@@ -49,6 +49,26 @@
 			<m_dblExpectedGlobArea>0.15</m_dblExpectedGlobArea>
 			<m_dblMinConfidence>0.3</m_dblMinConfidence>
 		</item>
+
+    <item class_id="7" class_name="StepModelMatch" tracking_level="1" version="0" object_id="_4">
+      <IStep>
+        <m_strName>StepModelMatch</m_strName>
+      </IStep>
+      <m_strModelName>LogoModel</m_strModelName>
+      <m_strNameObservations>GlobObservations</m_strNameObservations>
+      <m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
+      <m_strNameSpinHint>NULLSpinEstimate</m_strNameSpinHint>
+      <m_dblMinSizePct>0.50</m_dblMinSizePct>
+      <m_dblMaxSizePct>1.35</m_dblMaxSizePct>
+      <m_dblMinLengthPct>0.50</m_dblMinLengthPct>
+      <m_dblMaxLengthPct>1.35</m_dblMaxLengthPct>
+      <m_dblMinWidthPct>0.50</m_dblMinWidthPct>
+      <m_dblMaxWidthPct>1.35</m_dblMaxWidthPct>
+      <m_dblMaxFitError>0.12</m_dblMaxFitError>
+      <m_dblMinContourMerit>0.10</m_dblMinContourMerit>
+      <m_dblMinSpinConf>0.90</m_dblMinSpinConf>
+      <m_dblHintVariationPct>0.75</m_dblHintVariationPct>
+    </item>
 
 	</m_Sequence>
 </m_pWorkflow>
