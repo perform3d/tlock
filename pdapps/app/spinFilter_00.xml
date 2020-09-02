@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="17">
+<obj class_id="0" tracking_level="0" version="1">
+	<m_Area_Enable>0</m_Area_Enable>
+	<m_Area_Target>0.000000000e+00</m_Area_Target>
+	<m_Area_Tolerance>1.000000015e-01</m_Area_Tolerance>
+	<m_Area_Weight>5.000000000e-01</m_Area_Weight>
+	<m_Length_Enable>0</m_Length_Enable>
+	<m_Length_Target>0.000000000e+00</m_Length_Target>
+	<m_Length_Tolerance>1.000000015e-01</m_Length_Tolerance>
+	<m_Length_Weight>2.500000000e-01</m_Length_Weight>
+	<m_Width_Enable>0</m_Width_Enable>
+	<m_Width_Target>0.000000000e+00</m_Width_Target>
+	<m_Width_Tolerance>1.000000015e-01</m_Width_Tolerance>
+	<m_Width_Weight>5.000000000e-01</m_Width_Weight>
+	<m_AspectRatio_Enable>0</m_AspectRatio_Enable>
+	<m_AspectRatio_Target>0.000000000e+00</m_AspectRatio_Target>
+	<m_AspectRatio_Tolerance>1.000000015e-01</m_AspectRatio_Tolerance>
+	<m_AspectRatio_Weight>5.000000000e-01</m_AspectRatio_Weight>
+	<m_Merit_Min>5.000000000e-01</m_Merit_Min>
+	<SpareDblOne>0.00000000000000000e+00</SpareDblOne>
+	<SpareDblTwo>0.00000000000000000e+00</SpareDblTwo>
+	<SpareIntOne>0</SpareIntOne>
+	<SpareIntTwo>0</SpareIntTwo>
+</obj>
+</boost_serialization>
+
