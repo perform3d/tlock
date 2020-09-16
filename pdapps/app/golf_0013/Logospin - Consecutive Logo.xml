@@ -12,7 +12,7 @@
 		<count>4</count>
 		<item_version>0</item_version>
 
-		<item class_id="3" class_name="StepPpixGlobExtract" tracking_level="1" version="1" object_id="_1">
+		<item class_id="3" class_name="StepPpixGlobExtract" tracking_level="1" version="2" object_id="_1">
 			<IStep class_id="4" tracking_level="0" version="0">
 				<m_strName>StepPpixGlobExtract</m_strName>
 			</IStep>
@@ -27,6 +27,10 @@
 			<m_dblGlobAreaExpected>0.15</m_dblGlobAreaExpected>
 			<m_dblGlobAreaMin>0.06</m_dblGlobAreaMin>
 			<m_dblGlobAreaMax>0.4</m_dblGlobAreaMax>
+			<m_dblGlobAspectRatioExpected>0.2</m_dblGlobAspectRatioExpected>
+			<m_dblGlobAspectRatioMin>0.02</m_dblGlobAspectRatioMin>
+			<m_dblGlobAspectRatioMax>1.0</m_dblGlobAspectRatioMax>
+			<m_iMinPixBlobArea>2</m_iMinPixBlobArea>
 		</item>
 
 		<item class_id="5" class_name="StepPickGlobPairs" tracking_level="1" version="0" object_id="_2">
