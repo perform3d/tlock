@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="7">
+<m_pWorkflow class_id="0" class_name="CoreWorkflow" tracking_level="1" version="0" object_id="_0">
+	<IWorkflow class_id="1" tracking_level="0" version="0">
+		<m_name>CONSECUTIVE LOGO</m_name>
+	</IWorkflow>
+
+	<m_flgTimer>1</m_flgTimer>
+
+	<m_Sequence class_id="2" tracking_level="0" version="0">
+		<count>4</count>
+		<item_version>0</item_version>
+
+		<item class_id="3" class_name="StepPpixGlobExtract" tracking_level="1" version="2" object_id="_1">
+			<IStep class_id="4" tracking_level="0" version="0">
+				<m_strName>StepPpixGlobExtract</m_strName>
+			</IStep>
+			<m_strInputName>RawObservations</m_strInputName>
+			<m_strGlobResultsName>GlobObservations</m_strGlobResultsName>
+			<m_dblBlurFactor>1.7</m_dblBlurFactor>
+			<m_dblMarginFactor>33</m_dblMarginFactor>
+			<m_iPixelRes>2</m_iPixelRes>
+			<m_iMergeGap>5</m_iMergeGap>
+			<m_iPixEdgeLimit>6.5</m_iPixEdgeLimit>
+			<m_iBlobConvexHullFlag>0</m_iBlobConvexHullFlag>
+			<m_dblGlobAreaExpected>0.15</m_dblGlobAreaExpected>
+			<m_dblGlobAreaMin>0.06</m_dblGlobAreaMin>
+			<m_dblGlobAreaMax>0.4</m_dblGlobAreaMax>
+			<m_dblGlobAspectRatioExpected>0.2</m_dblGlobAspectRatioExpected>
+			<m_dblGlobAspectRatioMin>0.02</m_dblGlobAspectRatioMin>
+			<m_dblGlobAspectRatioMax>1.0</m_dblGlobAspectRatioMax>
+			<m_iMinPixBlobArea>9</m_iMinPixBlobArea>
+		</item>
+
+		<item class_id="5" class_name="StepPickGlobPairs" tracking_level="1" version="0" object_id="_2">
+			<IStep>
+				<m_strName>StepPickGlobPairs</m_strName>
+			</IStep>
+			<m_strNameObservations>GlobObservations</m_strNameObservations>
+			<m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
+			<m_flgTestDash>0</m_flgTestDash>
+			<m_iFavoredCam>0</m_iFavoredCam>
+		</item>
+
+		<item class_id="6" class_name="StepSpinConfidence" tracking_level="1" version="0" object_id="_3">
+			<IStep>
+				<m_strName>StepSpinConfidence</m_strName>
+			</IStep>
+			<m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
+			<m_dblMeritLimit>0.94999999999999996</m_dblMeritLimit>
+			<m_dblSpinMatchLimit>0.90000000000000002</m_dblSpinMatchLimit>
+			<m_dblExpectedGlobArea>0.15</m_dblExpectedGlobArea>
+			<m_dblMinConfidence>0.3</m_dblMinConfidence>
+		</item>
+
+    <item class_id="7" class_name="StepModelMatch" tracking_level="1" version="0" object_id="_4">
+      <IStep>
+        <m_strName>StepModelMatch</m_strName>
+      </IStep>
+      <m_strModelName>LogoModel</m_strModelName>
+      <m_strNameObservations>GlobObservations</m_strNameObservations>
+      <m_strNameSpinRange>SpinRanges</m_strNameSpinRange>
+      <m_strNameSpinHint>NULLSpinEstimate</m_strNameSpinHint>
+      <m_dblMinSizePct>0.50</m_dblMinSizePct>
+      <m_dblMaxSizePct>1.35</m_dblMaxSizePct>
+      <m_dblMinLengthPct>0.50</m_dblMinLengthPct>
+      <m_dblMaxLengthPct>1.35</m_dblMaxLengthPct>
+      <m_dblMinWidthPct>0.50</m_dblMinWidthPct>
+      <m_dblMaxWidthPct>1.35</m_dblMaxWidthPct>
+      <m_dblMaxFitError>0.12</m_dblMaxFitError>
+      <m_dblMinContourMerit>0.10</m_dblMinContourMerit>
+      <m_dblMinSpinConf>0.90</m_dblMinSpinConf>
+      <m_dblHintVariationPct>0.75</m_dblHintVariationPct>
+    </item>
+
+	</m_Sequence>
+</m_pWorkflow>
+</boost_serialization>
+
