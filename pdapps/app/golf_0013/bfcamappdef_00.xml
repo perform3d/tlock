@@ -48,7 +48,7 @@
 			<state>4</state>
 			<exception_event>9</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>44</im_height>
+			<im_height>42</im_height>
 			<im_width>752</im_width>
 			<im_alg>200</im_alg>
 			<row_start>162</row_start>
@@ -78,7 +78,7 @@
 			<state>1</state>
 			<exception_event>9</exception_event>
 			<exception_idx>4</exception_idx>
-			<im_height>44</im_height>
+			<im_height>42</im_height>
 			<im_width>752</im_width>
 			<im_alg>1502</im_alg>
 			<row_start>0</row_start>
@@ -138,7 +138,7 @@
 			<state>12</state>
 			<exception_event>0</exception_event>
 			<exception_idx>0</exception_idx>
-			<im_height>36</im_height>
+			<im_height>38</im_height>
 			<im_width>752</im_width>
 			<im_alg>305</im_alg>
 			<row_start>0</row_start>
